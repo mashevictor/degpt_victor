@@ -1,0 +1,64 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/lottie",
+  "title": "Lottie",
+  "version": "1.0",
+  "category": "mk-b-cat-basic",
+  "description": "Lottie 动画，上传动画的 Json 文件。",
+  "keywords": ["mookwai", "lottie", "animation", "svg", "canvas", "motion"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "tagName": {
+      "type": "string",
+      "default": "div"
+    },
+    "file": {
+      "type": "string"
+    },
+    "parameters": {
+      "type": "object"
+    },
+    "linkEnable": {
+      "type": "boolean",
+      "default": true
+    },
+    "link": {
+      "type": "object",
+      "default": {"type": "url"}
+    },
+    "linkRel": {
+      "type": "array"
+    },
+    "openInNew": {
+      "type": "boolean",
+      "default": false
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "parentIsPreview", "parentHasLink" ],
+  "supports": {
+		"html": false
+	}
+}

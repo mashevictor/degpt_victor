@@ -1,0 +1,50 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/table-of-contents",
+  "title": "内容目录",
+  "version": "1.0",
+  "category": "mk-b-cat-extention",
+  "description": "自动获取内容目录",
+  "keywords": ["mookwai", "menu", "catalog"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "tagName": {
+      "type": "string",
+      "default": "div"
+    },
+    "title": {
+      "type": "string",
+      "default": "TABLE OF CONTENTS"
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "providesContext": {
+    "parentIsPreview": "interactPreview"
+  },
+  "usesContext": [ "parentIsPreview" ],
+  "supports": {
+		"html": false
+	}
+}

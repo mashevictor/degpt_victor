@@ -1,0 +1,3245 @@
+# Copyright (C) 2024 PUJI Design
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: MooKwai Beta 0.2.01\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/mookwai\n"
+"POT-Creation-Date: 2024-05-24T10:46:53+00:00\n"
+"PO-Revision-Date: 2024-05-24 18:51+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: mookwai\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "MooKwai"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://mookwai.com"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "MooKwai is a website generation tool with greater freedom."
+msgstr "MooKwai 是一款更高自由度的网站生成工具。"
+
+#. Author of the theme
+#: style.css
+msgid "PUJI Design"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://puji.design"
+msgstr ""
+
+#: app/base/mookwai-blocks.php:111 assets/js/mk-blocks.js:1
+msgid "Structure"
+msgstr "框架"
+
+#: app/base/mookwai-blocks.php:119 assets/js/mk-blocks.js:1
+msgid "Basic"
+msgstr "基本"
+
+#: app/base/mookwai-blocks.php:127 assets/js/mk-blocks.js:1
+msgid "Extention"
+msgstr "扩展"
+
+#: app/base/mookwai-blocks.php:135 assets/js/mk-blocks.js:1
+msgid "Site Content"
+msgstr "站点内容"
+
+#: app/base/mookwai-setup.php:91
+msgid "Primary menu"
+msgstr ""
+
+#: app/base/mookwai-setup.php:92
+msgid "Secondary menu"
+msgstr ""
+
+#: app/settings/general-settings.php:39 app/settings/general-settings.php:49
+msgid "General Settings"
+msgstr "通用设置"
+
+#: app/settings/general-settings.php:50 assets/js/mk-blocks.js:1
+msgid "Settings"
+msgstr "设置"
+
+#: app/settings/general-settings.php:105
+msgid "Auxiliary"
+msgstr "辅助功能"
+
+#: app/settings/general-settings.php:106
+msgid "Import files"
+msgstr "导入文件"
+
+#: app/settings/general-settings.php:107
+msgid "Analytics"
+msgstr "统计与分析"
+
+#: app/settings/general-settings.php:108 assets/js/mk-blocks.js:1
+#: assets/js/mk-dashboard.js:1
+msgid "Integrate"
+msgstr "集成"
+
+#: app/settings/general-settings.php:116
+msgid "Admin bar"
+msgstr "顶部工具栏"
+
+#: app/settings/general-settings.php:117 assets/js/mk-blocks.js:1
+msgid "Display"
+msgstr "显示"
+
+#: app/settings/general-settings.php:126
+msgid "Default styles"
+msgstr "默认样式"
+
+#: app/settings/general-settings.php:127 app/settings/general-settings.php:137
+#: app/settings/general-settings.php:147 app/settings/general-settings.php:157
+#: app/settings/general-settings.php:167 app/settings/general-settings.php:177
+#: app/settings/general-settings.php:235 assets/js/mk-blocks.js:1
+#: assets/js/mk-dashboard.js:1
+msgid "Enable"
+msgstr "启用"
+
+#: app/settings/general-settings.php:166
+msgid "Lazy load"
+msgstr "懒加载"
+
+#: app/settings/general-settings.php:176
+msgid "Dashboard access"
+msgstr "后台访问权限限制"
+
+#: app/settings/general-settings.php:212
+msgid "Google UID"
+msgstr "谷歌UID"
+
+#: app/settings/general-settings.php:223
+msgid "Baidu hm.src"
+msgstr "百度hm.src"
+
+#: app/settings/mookwai-help.php:39 app/settings/mookwai-help.php:40
+#: app/settings/mookwai-help.php:48 app/settings/mookwai-help.php:49
+msgid "Get Help"
+msgstr "获取帮助"
+
+#: app/settings/mookwai-icon-library.php:39
+#: app/settings/mookwai-icon-library.php:40
+#: app/settings/mookwai-icon-library.php:48
+#: app/settings/mookwai-icon-library.php:49
+msgid "Generate Icons"
+msgstr "生成图标库"
+
+#: app/settings/mookwai-system.php:39 app/settings/mookwai-system.php:40
+#: app/settings/mookwai-system.php:48 app/settings/mookwai-system.php:49
+msgid "System"
+msgstr "系统"
+
+#: app/settings/mookwai-system.php:134
+msgid "MooKwai: System"
+msgstr "MooKwai: 系统"
+
+#: app/settings/mookwai-system.php:136
+msgid "Site Info"
+msgstr "站点信息"
+
+#: app/settings/mookwai-system.php:139
+msgid "Site Name"
+msgstr "站点名称"
+
+#: app/settings/mookwai-system.php:143
+msgid "Site URL"
+msgstr "站点URL"
+
+#: app/settings/mookwai-system.php:147
+msgid "WordPress Version"
+msgstr "WordPress版本"
+
+#: app/settings/mookwai-system.php:151
+msgid "MooKwai Version"
+msgstr "MooKwai版本"
+
+#: app/settings/mookwai-system.php:155
+msgid "Language"
+msgstr "语言"
+
+#: app/settings/mookwai-system.php:159
+msgid "Permalink"
+msgstr "固定链接"
+
+#: app/settings/mookwai-system.php:165
+msgid "PHP Info"
+msgstr "PHP信息"
+
+#: app/settings/mookwai-system.php:172
+msgid "PHP Version"
+msgstr "PHP版本"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Icon Library"
+msgstr "自定义图标库"
+
+#: assets/js/mk-blocks.js:1
+msgid "Unset"
+msgstr "未设置"
+
+#: assets/js/mk-blocks.js:1
+msgid "Desktop"
+msgstr "桌面端"
+
+#: assets/js/mk-blocks.js:1
+msgid "Tablet"
+msgstr "平板电脑"
+
+#: assets/js/mk-blocks.js:1
+msgid "Mobile"
+msgstr "移动端"
+
+#: assets/js/mk-blocks.js:1
+msgid "Lose Global"
+msgstr "全局样式丢失"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Size"
+msgstr "自定义尺寸"
+
+#: assets/js/mk-blocks.js:1
+msgid "Name"
+msgstr "名称"
+
+#: assets/js/mk-blocks.js:1
+msgid "maxWidth"
+msgstr "最大宽度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Side"
+msgstr "侧边"
+
+#: assets/js/mk-blocks.js:1
+msgid "Side(Mobile)"
+msgstr "侧边(移动端)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Edit"
+msgstr "编辑"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add New"
+msgstr "添加"
+
+#: assets/js/mk-blocks.js:1
+msgid "Please Enter…"
+msgstr "请输入…"
+
+#: assets/js/mk-blocks.js:1
+msgid "Content Preview Width"
+msgstr "内容预览宽度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Set as Default"
+msgstr "设为默认"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-dashboard.js:1
+msgid "Delete"
+msgstr "删除"
+
+#: assets/js/mk-blocks.js:1
+msgid "Default"
+msgstr "默认"
+
+#: assets/js/mk-blocks.js:1
+msgid "Full"
+msgstr "全屏"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Code"
+msgstr "自定义代码"
+
+#: assets/js/mk-blocks.js:1
+msgid "The key cannot be empty."
+msgstr "属性名不可为空。"
+
+#: assets/js/mk-blocks.js:1
+msgid "The value cannot be empty."
+msgstr "属性值不可为空。"
+
+#: assets/js/mk-blocks.js:1
+msgid "The key you entered is not allowed."
+msgstr "无效的属性名。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add"
+msgstr "添加"
+
+#: assets/js/mk-blocks.js:1
+msgid "Confirm deletion?"
+msgstr "确认删除？"
+
+#: assets/js/mk-blocks.js:1
+msgid "Cancel"
+msgstr "取消"
+
+#: assets/js/mk-blocks.js:1
+msgid "Invalid element."
+msgstr "无效元素。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Element Animation"
+msgstr "元素动画"
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Animation"
+msgstr "文本动画"
+
+#: assets/js/mk-blocks.js:1
+msgid "Video"
+msgstr "视频"
+
+#: assets/js/mk-blocks.js:1
+msgid "Duplicate"
+msgstr "创建副本"
+
+#: assets/js/mk-blocks.js:1
+msgid "Done"
+msgstr "完成"
+
+#: assets/js/mk-blocks.js:1
+msgid "Image"
+msgstr "图像"
+
+#: assets/js/mk-blocks.js:1
+msgid "Play"
+msgstr "播放"
+
+#: assets/js/mk-blocks.js:1
+msgid "Pause"
+msgstr "暂停"
+
+#: assets/js/mk-blocks.js:1
+msgid "Stop"
+msgstr "停止"
+
+#: assets/js/mk-blocks.js:1
+msgid "Sync"
+msgstr "同步"
+
+#: assets/js/mk-blocks.js:1
+msgid "Elastic"
+msgstr "弹性"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom"
+msgstr "自定义"
+
+#: assets/js/mk-blocks.js:1
+msgid "None"
+msgstr "无"
+
+#: assets/js/mk-blocks.js:1
+msgid "System fonts"
+msgstr "系统字体"
+
+#: assets/js/mk-blocks.js:1
+msgid "System fonts(chinese)"
+msgstr "系统字体(中文)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Properties not set yet."
+msgstr "属性尚未设置。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Modify"
+msgstr "修改"
+
+#: assets/js/mk-blocks.js:1
+msgid "The key is not valid."
+msgstr "无效的属性名。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Completion Status"
+msgstr "完成状态"
+
+#: assets/js/mk-blocks.js:1
+msgid "Initial Status"
+msgstr "初始状态"
+
+#: assets/js/mk-blocks.js:1
+msgid "Default Status"
+msgstr "默认状态"
+
+#: assets/js/mk-blocks.js:1
+msgid "Set Element Animation"
+msgstr "设置元素动画"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Name"
+msgstr "自定义名称"
+
+#: assets/js/mk-blocks.js:1
+msgid "Please enter…"
+msgstr "请输入…"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Type"
+msgstr "类型"
+
+#: assets/js/mk-blocks.js:1
+msgid "Line"
+msgstr "行"
+
+#: assets/js/mk-blocks.js:1
+msgid "Word"
+msgstr "单词"
+
+#: assets/js/mk-blocks.js:1
+msgid "Character"
+msgstr "字符"
+
+#: assets/js/mk-blocks.js:1
+msgid "Set Text Animation"
+msgstr "设置文本动画"
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Element"
+msgstr "文本元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Capture"
+msgstr "截取"
+
+#: assets/js/mk-blocks.js:1
+msgid "Jump"
+msgstr "跳转"
+
+#: assets/js/mk-blocks.js:1
+msgid "Trigger"
+msgstr "触发"
+
+#: assets/js/mk-blocks.js:1
+msgid "Start"
+msgstr "开始"
+
+#: assets/js/mk-blocks.js:1
+msgid "End"
+msgstr "结束"
+
+#: assets/js/mk-blocks.js:1
+msgid "Jump to"
+msgstr "跳转至"
+
+#: assets/js/mk-blocks.js:1
+msgid "Loop"
+msgstr "循环"
+
+#: assets/js/mk-blocks.js:1
+msgid "Max Time"
+msgstr "最大时长"
+
+#: assets/js/mk-blocks.js:1
+msgid "Hover"
+msgstr "滑过"
+
+#: assets/js/mk-blocks.js:1
+msgid "Flex Item"
+msgstr "弹性元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Pseudo Element"
+msgstr "伪元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Replaced Element"
+msgstr "可替换元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Position"
+msgstr "定位"
+
+#: assets/js/mk-blocks.js:1
+msgid "Overflow"
+msgstr "溢出"
+
+#: assets/js/mk-blocks.js:1
+msgid "Cursor"
+msgstr "指针"
+
+#: assets/js/mk-blocks.js:1
+msgid "Counter"
+msgstr "计数器"
+
+#: assets/js/mk-blocks.js:1
+msgid "Background"
+msgstr "背景"
+
+#: assets/js/mk-blocks.js:1
+msgid "Border"
+msgstr "边框"
+
+#: assets/js/mk-blocks.js:1
+msgid "Outline"
+msgstr "外轮廓"
+
+#: assets/js/mk-blocks.js:1
+msgid "Radius"
+msgstr "圆角"
+
+#: assets/js/mk-blocks.js:1
+msgid "Shadow"
+msgstr "投影"
+
+#: assets/js/mk-blocks.js:1
+msgid "Clip"
+msgstr "裁切"
+
+#: assets/js/mk-blocks.js:1
+msgid "Opacity"
+msgstr "不透明度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Text"
+msgstr "文字"
+
+#: assets/js/mk-blocks.js:1
+msgid "Typography"
+msgstr "排版"
+
+#: assets/js/mk-blocks.js:1
+msgid "Sizing"
+msgstr "尺寸"
+
+#: assets/js/mk-blocks.js:1
+msgid "Spacing"
+msgstr "间距"
+
+#: assets/js/mk-blocks.js:1
+msgid "Filter"
+msgstr "滤镜"
+
+#: assets/js/mk-blocks.js:1
+msgid "Backdrop Filter"
+msgstr "背景滤镜"
+
+#: assets/js/mk-blocks.js:1
+msgid "Transform"
+msgstr "变形"
+
+#: assets/js/mk-blocks.js:1
+msgid "Transition"
+msgstr "过渡"
+
+#: assets/js/mk-blocks.js:1
+msgid "Bouncing"
+msgstr "弹跳"
+
+#: assets/js/mk-blocks.js:1
+msgid "Flipping"
+msgstr "翻转"
+
+#: assets/js/mk-blocks.js:1
+msgid "Drag"
+msgstr "拖拽"
+
+#: assets/js/mk-blocks.js:1
+msgid "Wiggle"
+msgstr "抖动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Anchor"
+msgstr "瞄点"
+
+#: assets/js/mk-blocks.js:1
+msgid "View In/View Out"
+msgstr "入场/离场"
+
+#: assets/js/mk-blocks.js:1
+msgid "Scroll Scrub"
+msgstr "滚动捕捉"
+
+#: assets/js/mk-blocks.js:1
+msgid "Matrix Scroll"
+msgstr "矩阵滚动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Mouse Hover"
+msgstr "鼠标滑过"
+
+#: assets/js/mk-blocks.js:1
+msgid "Mouse Move"
+msgstr "鼠标移动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Click"
+msgstr "点击"
+
+#: assets/js/mk-blocks.js:1
+msgid "Row"
+msgstr "行"
+
+#: assets/js/mk-blocks.js:1
+msgid "Row reverse"
+msgstr "行-反向"
+
+#: assets/js/mk-blocks.js:1
+msgid "Column"
+msgstr "列"
+
+#: assets/js/mk-blocks.js:1
+msgid "Column reverse"
+msgstr "列-反向"
+
+#: assets/js/mk-blocks.js:1
+msgid "Nowrap"
+msgstr "不换行"
+
+#: assets/js/mk-blocks.js:1
+msgid "Wrap"
+msgstr "换行"
+
+#: assets/js/mk-blocks.js:1
+msgid "Wrap reverse"
+msgstr "反向换行"
+
+#: assets/js/mk-blocks.js:1
+msgid "Axis Direction"
+msgstr "轴向"
+
+#: assets/js/mk-blocks.js:1
+msgid "Main-axis"
+msgstr "主轴"
+
+#: assets/js/mk-blocks.js:1
+msgid "Cross-axis"
+msgstr "交叉轴"
+
+#: assets/js/mk-blocks.js:1
+msgid "Gap"
+msgstr "间隙"
+
+#: assets/js/mk-blocks.js:1
+msgid "Basis Size"
+msgstr "基础尺寸"
+
+#: assets/js/mk-blocks.js:1
+msgid "Grow"
+msgstr "生长系数"
+
+#: assets/js/mk-blocks.js:1
+msgid "Shrink"
+msgstr "收缩系数"
+
+#: assets/js/mk-blocks.js:1
+msgid "Order"
+msgstr "顺序"
+
+#: assets/js/mk-blocks.js:1
+msgid "Content"
+msgstr "内容"
+
+#: assets/js/mk-blocks.js:1
+msgid "Object fit"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "T"
+msgstr "上"
+
+#: assets/js/mk-blocks.js:1
+msgid "R"
+msgstr "右"
+
+#: assets/js/mk-blocks.js:1
+msgid "B"
+msgstr "下"
+
+#: assets/js/mk-blocks.js:1
+msgid "L"
+msgstr "左"
+
+#: assets/js/mk-blocks.js:1
+msgid "Offset"
+msgstr "偏移"
+
+#: assets/js/mk-blocks.js:1
+msgid "Z-index"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Auto"
+msgstr "自动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Pointer"
+msgstr "点击"
+
+#: assets/js/mk-blocks.js:1
+msgid "Context menu"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Help"
+msgstr "帮助"
+
+#: assets/js/mk-blocks.js:1
+msgid "Progress"
+msgstr "进度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Wait"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cell"
+msgstr "单元格"
+
+#: assets/js/mk-blocks.js:1
+msgid "Cross Hair"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Vertical Text"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Event"
+msgstr "事件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Cursor"
+msgstr "自定义光标"
+
+#: assets/js/mk-blocks.js:1
+msgid "Set"
+msgstr "设置"
+
+#: assets/js/mk-blocks.js:1
+msgid "Reset"
+msgstr "重设"
+
+#: assets/js/mk-blocks.js:1
+msgid "Content Increment"
+msgstr "增长值"
+
+#: assets/js/mk-blocks.js:1
+msgid "Color"
+msgstr "颜色"
+
+#: assets/js/mk-blocks.js:1
+msgid "Center"
+msgstr "中间"
+
+#: assets/js/mk-blocks.js:1
+msgid "Repeat"
+msgstr "重复"
+
+#: assets/js/mk-blocks.js:1
+msgid "Repeat X"
+msgstr "X轴重复"
+
+#: assets/js/mk-blocks.js:1
+msgid "Repeat Y"
+msgstr "Y轴重复"
+
+#: assets/js/mk-blocks.js:1
+msgid "No Repeat"
+msgstr "不重复"
+
+#: assets/js/mk-blocks.js:1
+msgid "Cover"
+msgstr "覆盖"
+
+#: assets/js/mk-blocks.js:1
+msgid "Contain"
+msgstr "包含"
+
+#: assets/js/mk-blocks.js:1
+msgid "W"
+msgstr "宽"
+
+#: assets/js/mk-blocks.js:1
+msgid "H"
+msgstr "高"
+
+#: assets/js/mk-blocks.js:1
+msgid "Background Color"
+msgstr "背景色"
+
+#: assets/js/mk-blocks.js:1
+msgid "Image src"
+msgstr "图像路径"
+
+#: assets/js/mk-blocks.js:1
+msgid "size"
+msgstr "尺寸"
+
+#: assets/js/mk-blocks.js:1
+msgid "Interact"
+msgstr "交互"
+
+#: assets/js/mk-blocks.js:1
+msgid "Solid line"
+msgstr "实线"
+
+#: assets/js/mk-blocks.js:1
+msgid "Dashed"
+msgstr "虚线"
+
+#: assets/js/mk-blocks.js:1
+msgid "Dotted"
+msgstr "圆点"
+
+#: assets/js/mk-blocks.js:1
+msgid "Double solid"
+msgstr "双实线"
+
+#: assets/js/mk-blocks.js:1
+msgid "Style"
+msgstr "样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Width"
+msgstr "宽度"
+
+#: assets/js/mk-blocks.js:1
+msgid "LT"
+msgstr "左上"
+
+#: assets/js/mk-blocks.js:1
+msgid "RT"
+msgstr "右上"
+
+#: assets/js/mk-blocks.js:1
+msgid "RB"
+msgstr "右下"
+
+#: assets/js/mk-blocks.js:1
+msgid "LB"
+msgstr "左下"
+
+#: assets/js/mk-blocks.js:1
+msgid "Blur"
+msgstr "模糊"
+
+#: assets/js/mk-blocks.js:1
+msgid "Spread"
+msgstr "扩展"
+
+#: assets/js/mk-blocks.js:1
+msgid "Parameter"
+msgstr "参数"
+
+#: assets/js/mk-blocks.js:1
+msgid "Inner"
+msgstr "内部"
+
+#: assets/js/mk-blocks.js:1
+msgid "Round"
+msgstr "圆"
+
+#: assets/js/mk-blocks.js:1
+msgid "Square"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Inherit"
+msgstr "继承"
+
+#: assets/js/mk-blocks.js:1
+msgid "Arcs"
+msgstr "弧形"
+
+#: assets/js/mk-blocks.js:1
+msgid "Miter"
+msgstr "斜切"
+
+#: assets/js/mk-blocks.js:1
+msgid "Bevel"
+msgstr "斜面"
+
+#: assets/js/mk-blocks.js:1
+msgid "Fill Color"
+msgstr "填充色"
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroke Color"
+msgstr "颜色"
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroe Width"
+msgstr "线宽"
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroke Cap"
+msgstr "线端"
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroke Join"
+msgstr "连接"
+
+#: assets/js/mk-blocks.js:1
+msgid "Normal"
+msgstr "普通"
+
+#: assets/js/mk-blocks.js:1
+msgid "Mode"
+msgstr "模式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Italic"
+msgstr "斜体"
+
+#: assets/js/mk-blocks.js:1
+msgid "Solid"
+msgstr "实色"
+
+#: assets/js/mk-blocks.js:1
+msgid "Double Solid"
+msgstr "双实线"
+
+#: assets/js/mk-blocks.js:1
+msgid "Wavy"
+msgstr "波浪"
+
+#: assets/js/mk-blocks.js:1
+msgid "Font Family"
+msgstr "字体"
+
+#: assets/js/mk-blocks.js:1
+msgid "Font Weight"
+msgstr "字重"
+
+#: assets/js/mk-blocks.js:1
+msgid "Font Style"
+msgstr "样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Font Spec"
+msgstr "文字规格"
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Transform"
+msgstr "转换"
+
+#: assets/js/mk-blocks.js:1
+msgid "Decoration"
+msgstr "装饰线"
+
+#: assets/js/mk-blocks.js:1
+msgid "Decoration Style"
+msgstr "样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Decoration Width"
+msgstr "线宽"
+
+#: assets/js/mk-blocks.js:1
+msgid "Reserved"
+msgstr "保留字形"
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Stroke"
+msgstr "文本边框"
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Shadow"
+msgstr "文本投影"
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Indent"
+msgstr "缩进"
+
+#: assets/js/mk-blocks.js:1
+msgid "Alignment"
+msgstr "对齐"
+
+#: assets/js/mk-blocks.js:1
+msgid "Word Break"
+msgstr "字母断开"
+
+#: assets/js/mk-blocks.js:1
+msgid "Whitespace"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "minWidth"
+msgstr "最小宽度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Height"
+msgstr "高度"
+
+#: assets/js/mk-blocks.js:1
+msgid "minHeight"
+msgstr "最小高度"
+
+#: assets/js/mk-blocks.js:1
+msgid "maxHeight"
+msgstr "最大高度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Ratio"
+msgstr "比例"
+
+#: assets/js/mk-blocks.js:1
+msgid "Padding"
+msgstr "内间距"
+
+#: assets/js/mk-blocks.js:1
+msgid "Margin"
+msgstr "外间距"
+
+#: assets/js/mk-blocks.js:1
+msgid "Visible"
+msgstr "可视"
+
+#: assets/js/mk-blocks.js:1
+msgid "Hidden"
+msgstr "隐藏"
+
+#: assets/js/mk-blocks.js:1
+msgid "Scroll"
+msgstr "滚动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Ellipsis"
+msgstr "省略号"
+
+#: assets/js/mk-blocks.js:1
+msgid "Overflow X"
+msgstr "X轴溢出"
+
+#: assets/js/mk-blocks.js:1
+msgid "Overflow Y"
+msgstr "Y轴溢出"
+
+#: assets/js/mk-blocks.js:1
+msgid "Text overflow"
+msgstr "文本溢出"
+
+#: assets/js/mk-blocks.js:1
+msgid "Saturate"
+msgstr "饱和度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Brightness"
+msgstr "亮度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Contrast"
+msgstr "对比度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Grey"
+msgstr "灰度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Hue"
+msgstr "色相"
+
+#: assets/js/mk-blocks.js:1
+msgid "Manage Filters"
+msgstr "管理滤镜"
+
+#: assets/js/mk-blocks.js:1
+msgid "Free Transform"
+msgstr "自由变形"
+
+#: assets/js/mk-blocks.js:1
+msgid "Translate"
+msgstr "位移"
+
+#: assets/js/mk-blocks.js:1
+msgid "Scale"
+msgstr "缩放"
+
+#: assets/js/mk-blocks.js:1
+msgid "Rotate"
+msgstr "旋转"
+
+#: assets/js/mk-blocks.js:1
+msgid "Skew"
+msgstr "倾斜"
+
+#: assets/js/mk-blocks.js:1
+msgid "Origin"
+msgstr "原点"
+
+#: assets/js/mk-blocks.js:1
+msgid "Manage Transform"
+msgstr "管理变形"
+
+#: assets/js/mk-blocks.js:1
+msgid "Ease"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ease in"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ease out"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ease in out"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Linear"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Step start"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Step end"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Bezier"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Animation"
+msgstr "自定义动画"
+
+#: assets/js/mk-blocks.js:1
+msgid "Transition Settings"
+msgstr "过渡设置"
+
+#: assets/js/mk-blocks.js:1
+msgid "Property"
+msgstr "属性"
+
+#: assets/js/mk-blocks.js:1
+msgid "Duration"
+msgstr "持续时长"
+
+#: assets/js/mk-blocks.js:1
+msgid "Delay"
+msgstr "延迟"
+
+#: assets/js/mk-blocks.js:1
+msgid "Easing"
+msgstr "曲线"
+
+#: assets/js/mk-blocks.js:1
+msgid "Power"
+msgstr "力度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Inner Element"
+msgstr "内部元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Devices"
+msgstr "设备"
+
+#: assets/js/mk-blocks.js:1
+msgid "Reversed"
+msgstr "反向"
+
+#: assets/js/mk-blocks.js:1
+msgid "Move"
+msgstr "移动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Amplitude"
+msgstr "幅度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Interval"
+msgstr "间隔"
+
+#: assets/js/mk-blocks.js:1
+msgid "Target Element"
+msgstr "目标元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Update to global styles"
+msgstr "更新到全局样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Inherit from global styles"
+msgstr "继承自全局样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Invalid setting"
+msgstr "无效设置"
+
+#: assets/js/mk-blocks.js:1
+msgid "Child Element"
+msgstr "子元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Element/Pseudo Name…"
+msgstr "元素/伪类名称…"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Child Element"
+msgstr "添加子元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Element Name"
+msgstr "元素名称"
+
+#: assets/js/mk-blocks.js:1
+msgid "Basic Properties"
+msgstr "基本属性"
+
+#: assets/js/mk-blocks.js:1
+msgid "Appearance"
+msgstr "外观"
+
+#: assets/js/mk-blocks.js:1
+msgid "Sizing & Spacing"
+msgstr "尺寸与间距"
+
+#: assets/js/mk-blocks.js:1
+msgid "Effects"
+msgstr "效果"
+
+#: assets/js/mk-blocks.js:1
+msgid "Delete Element"
+msgstr "删除元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Enable Timeline"
+msgstr "启用时间轴"
+
+#: assets/js/mk-blocks.js:1
+msgid "Repeat Delay"
+msgstr "重复延时"
+
+#: assets/js/mk-blocks.js:1
+msgid "Reverse on Return"
+msgstr "离开时回放"
+
+#: assets/js/mk-blocks.js:1
+msgid "Animation"
+msgstr "动画"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Ease"
+msgstr "自定义曲线"
+
+#: assets/js/mk-blocks.js:1
+msgid "Edges"
+msgstr "边缘"
+
+#: assets/js/mk-blocks.js:1
+msgid "Random"
+msgstr "随机"
+
+#: assets/js/mk-blocks.js:1
+msgid "Stagger"
+msgstr "序列"
+
+#: assets/js/mk-blocks.js:1
+msgid "Starting"
+msgstr "起始点"
+
+#: assets/js/mk-blocks.js:1
+msgid "Axis"
+msgstr "轴"
+
+#: assets/js/mk-blocks.js:1
+msgid "Block Settings"
+msgstr "区块设置"
+
+#: assets/js/mk-blocks.js:1
+msgid "Styles"
+msgstr "样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Interacts"
+msgstr "交互"
+
+#: assets/js/mk-blocks.js:1
+msgid "Assist"
+msgstr "辅助"
+
+#: assets/js/mk-blocks.js:1
+msgid "Classname"
+msgstr "类名"
+
+#: assets/js/mk-blocks.js:1
+msgid "Html Attributes"
+msgstr "Html属性"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Global Block"
+msgstr "全局块"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add New Global Block"
+msgstr "添加全局块"
+
+#: assets/js/mk-blocks.js:1
+msgid "Edit Global Block"
+msgstr "编辑全局块"
+
+#: assets/js/mk-blocks.js:1
+msgid "Do Not Use Global Block"
+msgstr "不使用全局块"
+
+#: assets/js/mk-blocks.js:1
+msgid "Sync to Global Block"
+msgstr "同步到全局块"
+
+#: assets/js/mk-blocks.js:1
+msgid "Homepage"
+msgstr "首页"
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Homepage"
+msgstr "站点首页"
+
+#: assets/js/mk-blocks.js:1
+msgid "Media file"
+msgstr "媒体文件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Attachment page"
+msgstr "附件页面"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Link"
+msgstr "链接"
+
+#: assets/js/mk-blocks.js:1
+msgid "No title"
+msgstr "没有标题"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom link"
+msgstr "自定义链接"
+
+#: assets/js/mk-blocks.js:1
+msgid "Advanced"
+msgstr "高级"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Open in New"
+msgstr "新窗口打开"
+
+#: assets/js/mk-blocks.js:1
+msgid "Aria Label"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Rel"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Html Tag"
+msgstr "Html标签"
+
+#: assets/js/mk-blocks.js:1
+msgid "Interact Preview"
+msgstr "交互预览"
+
+#: assets/js/mk-blocks.js:1
+msgid "Hide/Show"
+msgstr "隐藏/显示"
+
+#: assets/js/mk-blocks.js:1
+msgid "Copy/Paste"
+msgstr "复制/粘贴"
+
+#: assets/js/mk-blocks.js:1
+msgid "Copy Block Styles"
+msgstr "复制区块样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Paste Block Styles"
+msgstr "粘贴区块样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Copy Block Interacts"
+msgstr "复制区块交互"
+
+#: assets/js/mk-blocks.js:1
+msgid "Paste Block Interacts"
+msgstr "粘贴区块交互"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-dashboard.js:1
+msgid "Clear"
+msgstr "清除"
+
+#: assets/js/mk-blocks.js:1
+msgid "Copy Block Classname"
+msgstr "复制区块类名"
+
+#: assets/js/mk-blocks.js:1
+msgid "No Animation Found."
+msgstr "未创建动画。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Restart"
+msgstr "重播"
+
+#: assets/js/mk-blocks.js:1
+msgid "Reverse"
+msgstr "回放"
+
+#: assets/js/mk-blocks.js:1
+msgid "Animation Tween"
+msgstr "补间动画"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Tween"
+msgstr "添加补间动画"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Tween"
+msgstr "自定义补间动画"
+
+#: assets/js/mk-blocks.js:1
+msgid "Animation Tween Settings"
+msgstr "补间动画设置"
+
+#: assets/js/mk-blocks.js:1
+msgid "Animation Management"
+msgstr "动画管理"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Animation"
+msgstr "添加动画"
+
+#: assets/js/mk-blocks.js:1
+msgid "Ending"
+msgstr "结束点"
+
+#: assets/js/mk-blocks.js:1
+msgid "Markers"
+msgstr "标记"
+
+#: assets/js/mk-blocks.js:1
+msgid "Events"
+msgstr "事件"
+
+#: assets/js/mk-blocks.js:1
+msgid "View In"
+msgstr "入场"
+
+#: assets/js/mk-blocks.js:1
+msgid "View Out"
+msgstr "离场"
+
+#: assets/js/mk-blocks.js:1
+msgid "Reverse: View In"
+msgstr "返回: 入场"
+
+#: assets/js/mk-blocks.js:1
+msgid "Reverse: View Out"
+msgstr "返回: 离场"
+
+#: assets/js/mk-blocks.js:1
+msgid "Delete Event"
+msgstr "删除事件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Smooth"
+msgstr "平滑度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Pin"
+msgstr "固定"
+
+#: assets/js/mk-blocks.js:1
+msgid "Element"
+msgstr "元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Mouse Enter"
+msgstr "鼠标移入"
+
+#: assets/js/mk-blocks.js:1
+msgid "Mouse Leave"
+msgstr "鼠标移出"
+
+#: assets/js/mk-blocks.js:1
+msgid "Toggle Class"
+msgstr "切换类名"
+
+#: assets/js/mk-blocks.js:1
+msgid "Toggle"
+msgstr "切换"
+
+#: assets/js/mk-blocks.js:1
+msgid "Click Again"
+msgstr "再次点击"
+
+#: assets/js/mk-blocks.js:1
+msgid "Element Event"
+msgstr "元素事件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add New Event"
+msgstr "添加新事件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: View in/View out"
+msgstr "元素: 入场/离场"
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: Scroll Scrub"
+msgstr "元素: 滚动捕捉"
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: Matrix Scroll"
+msgstr "元素: 矩阵滚动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: Hover"
+msgstr "元素: 滑过"
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: Mouse Leave"
+msgstr "元素: 鼠标离开"
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: Click"
+msgstr "元素: 点击"
+
+#: assets/js/mk-blocks.js:1
+msgid "Invalid Event"
+msgstr "无效事件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Preset"
+msgstr "预设"
+
+#: assets/js/mk-blocks.js:1
+msgid "Large"
+msgstr "大"
+
+#: assets/js/mk-blocks.js:1
+msgid "No Restriction"
+msgstr "不限制"
+
+#: assets/js/mk-blocks.js:1
+msgid "Landscape"
+msgstr "横屏"
+
+#: assets/js/mk-blocks.js:1
+msgid "Portrait"
+msgstr "竖屏"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Responsive"
+msgstr "添加适配"
+
+#: assets/js/mk-blocks.js:1
+msgid "Undefined"
+msgstr "未定义"
+
+#: assets/js/mk-blocks.js:1
+msgid "Device"
+msgstr "设备"
+
+#: assets/js/mk-blocks.js:1
+msgid "Screen Ratio"
+msgstr "屏幕比例"
+
+#: assets/js/mk-blocks.js:1
+msgid "Media background"
+msgstr "媒体背景"
+
+#: assets/js/mk-blocks.js:1
+msgid "Image file"
+msgstr "图像文件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Video file"
+msgstr "视频文件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Autoplay"
+msgstr "自动播放"
+
+#: assets/js/mk-blocks.js:1
+msgid "Lottie file"
+msgstr "Lottie文件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Upload or enter file path…"
+msgstr "上传或输入文件路径…"
+
+#: assets/js/mk-blocks.js:1
+msgid "Link URL"
+msgstr "链接URL"
+
+#: assets/js/mk-blocks.js:1
+msgid "Choose"
+msgstr "选择"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Font"
+msgstr "自定义字体"
+
+#: assets/js/mk-blocks.js:1
+msgid "CSS Property Value"
+msgstr "CSS属性值"
+
+#: assets/js/mk-blocks.js:1
+msgid "Medium"
+msgstr "中等"
+
+#: assets/js/mk-blocks.js:1
+msgid "Small"
+msgstr "小"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add A Icon"
+msgstr "添加图标"
+
+#: assets/js/mk-blocks.js:1
+msgid "Insert"
+msgstr "插入"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add New Icon"
+msgstr "添加图标"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add A Library"
+msgstr "添加图标库"
+
+#: assets/js/mk-blocks.js:1
+msgid "Icon Library"
+msgstr "图标库"
+
+#: assets/js/mk-blocks.js:1
+msgid "Edit Name"
+msgstr "编辑名称"
+
+#: assets/js/mk-blocks.js:1
+msgid "Missing Icon"
+msgstr "图标丢失"
+
+#: assets/js/mk-blocks.js:1
+msgid "Choose file"
+msgstr "选择文件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Set the target element…"
+msgstr "设置目标元素…"
+
+#: assets/js/mk-blocks.js:1
+msgid "Invalid target element."
+msgstr "无效的目标元素。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom CSS"
+msgstr "自定义CSS"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom JS"
+msgstr "自定义JS"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-dashboard.js:1
+msgid "Import Files"
+msgstr "导入文件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Paragraph"
+msgstr "段落"
+
+#: assets/js/mk-blocks.js:1
+msgid "Heading"
+msgstr "标题"
+
+#: assets/js/mk-blocks.js:1
+msgid "List"
+msgstr "列表"
+
+#: assets/js/mk-blocks.js:1
+msgid "Unordered List"
+msgstr "无序列表"
+
+#: assets/js/mk-blocks.js:1
+msgid "Ordered List"
+msgstr "有序列表"
+
+#: assets/js/mk-blocks.js:1
+msgid "List Item"
+msgstr "列表元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Quote"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Caption"
+msgstr "描述"
+
+#: assets/js/mk-blocks.js:1
+msgid "Code"
+msgstr "代码"
+
+#: assets/js/mk-blocks.js:1
+msgid "Table"
+msgstr "表单"
+
+#: assets/js/mk-blocks.js:1
+msgid "Head"
+msgstr "头部"
+
+#: assets/js/mk-blocks.js:1
+msgid "Body"
+msgstr "主体"
+
+#: assets/js/mk-blocks.js:1
+msgid "Foot"
+msgstr "底部"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Core"
+msgstr "主容器"
+
+#: assets/js/mk-blocks.js:1
+msgid "Panel"
+msgstr "面板"
+
+#: assets/js/mk-blocks.js:1
+msgid "Toggle Button"
+msgstr "切换按钮"
+
+#: assets/js/mk-blocks.js:1
+msgid "Title"
+msgstr "标题"
+
+#: assets/js/mk-blocks.js:1
+msgid "One-level"
+msgstr "一级目录"
+
+#: assets/js/mk-blocks.js:1
+msgid "Two-level"
+msgstr "二级目录"
+
+#: assets/js/mk-blocks.js:1
+msgid "Container"
+msgstr "容器"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Item"
+msgstr "元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Front"
+msgstr "正面"
+
+#: assets/js/mk-blocks.js:1
+msgid "Back"
+msgstr "背面"
+
+#: assets/js/mk-blocks.js:1
+msgid "Wrapper"
+msgstr "包裹器"
+
+#: assets/js/mk-blocks.js:1
+msgid "Search Group"
+msgstr "搜索框组"
+
+#: assets/js/mk-blocks.js:1
+msgid "Search Icon"
+msgstr "搜索框按钮"
+
+#: assets/js/mk-blocks.js:1
+msgid "Search Input"
+msgstr "搜索输入框"
+
+#: assets/js/mk-blocks.js:1
+msgid "Button"
+msgstr "按钮"
+
+#: assets/js/mk-blocks.js:1
+msgid "Submenu"
+msgstr "子菜单"
+
+#: assets/js/mk-blocks.js:1
+msgid "Cover Item"
+msgstr "封面元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Separator"
+msgstr "分隔符"
+
+#: assets/js/mk-blocks.js:1
+msgid "Prefix"
+msgstr "前缀"
+
+#: assets/js/mk-blocks.js:1
+msgid "Suffix"
+msgstr "后缀"
+
+#: assets/js/mk-blocks.js:1
+msgid "Numbers Container"
+msgstr "容器数量"
+
+#: assets/js/mk-blocks.js:1
+msgid "Delete Style"
+msgstr "删除样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Layout"
+msgstr "布局"
+
+#: assets/js/mk-blocks.js:1
+msgid "Palette"
+msgstr "调色盘"
+
+#: assets/js/mk-blocks.js:1
+msgid "Brand Color"
+msgstr "品牌色"
+
+#: assets/js/mk-blocks.js:1
+msgid "Neutral Color"
+msgstr "中性色"
+
+#: assets/js/mk-blocks.js:1
+msgid "Hint Color"
+msgstr "提示色"
+
+#: assets/js/mk-blocks.js:1
+msgid "Other"
+msgstr "其他"
+
+#: assets/js/mk-blocks.js:1
+msgid "Google Font"
+msgstr "谷歌字体"
+
+#: assets/js/mk-blocks.js:1
+msgid "Regular Font"
+msgstr "常规文字"
+
+#: assets/js/mk-blocks.js:1
+msgid "Major Font"
+msgstr "重点文字"
+
+#: assets/js/mk-blocks.js:1
+msgid "Normal Layout"
+msgstr "普通布局"
+
+#: assets/js/mk-blocks.js:1
+msgid "Flex Layout"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Column Layout"
+msgstr "列布局"
+
+#: assets/js/mk-blocks.js:1
+msgid "List Layout"
+msgstr "列表布局"
+
+#: assets/js/mk-blocks.js:1
+msgid "Left"
+msgstr "左"
+
+#: assets/js/mk-blocks.js:1
+msgid "Right"
+msgstr "右"
+
+#: assets/js/mk-blocks.js:1
+msgid "Row Reverse"
+msgstr "行-反向"
+
+#: assets/js/mk-blocks.js:1
+msgid "Column Reverse"
+msgstr "列-反向"
+
+#: assets/js/mk-blocks.js:1
+msgid "No Wrap"
+msgstr "不换行"
+
+#: assets/js/mk-blocks.js:1
+msgid "Wrap Reverse"
+msgstr "反向换行"
+
+#: assets/js/mk-blocks.js:1
+msgid "Regular"
+msgstr "常规"
+
+#: assets/js/mk-blocks.js:1
+msgid "Flex Start"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Flex End"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Space Between"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Space Around"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Space Evenly"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Stretch"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Baseline"
+msgstr "基线"
+
+#: assets/js/mk-blocks.js:1
+msgid "Side(sm)"
+msgstr "侧边(sm)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Side Scale"
+msgstr "侧边缩放"
+
+#: assets/js/mk-blocks.js:1
+msgid "Side Scale(lg)"
+msgstr "侧边缩放(lg)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Flex layout"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Col Gap"
+msgstr "列间隙"
+
+#: assets/js/mk-blocks.js:1
+msgid "Col Gap(sm)"
+msgstr "列间隙(sm)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Row Gap"
+msgstr "行间隙"
+
+#: assets/js/mk-blocks.js:1
+msgid "Row Gap(sm)"
+msgstr "行间隙(sm)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Gap Scale"
+msgstr "间隙缩放"
+
+#: assets/js/mk-blocks.js:1
+msgid "Gap Scale(lg)"
+msgstr "间隙缩放(lg)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Direction"
+msgstr "方向"
+
+#: assets/js/mk-blocks.js:1
+msgid "Columns"
+msgstr "列数量"
+
+#: assets/js/mk-blocks.js:1
+msgid "Columns(sm)"
+msgstr "列数量(sm)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Cells Per Row"
+msgstr "每行单元数"
+
+#: assets/js/mk-blocks.js:1
+msgid "Cells Per Row(sm)"
+msgstr "每行单元数(sm)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Cell Height"
+msgstr "单元高度"
+
+#: assets/js/mk-blocks.js:1
+msgid "Cell Height(sm)"
+msgstr "单元高度(sm)"
+
+#: assets/js/mk-blocks.js:1
+msgid "minWidth(md)"
+msgstr "最小宽度(md)"
+
+#: assets/js/mk-blocks.js:1
+msgid "minWidth(sm)"
+msgstr "最小宽度(sm)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Gradient"
+msgstr "渐变"
+
+#: assets/js/mk-blocks.js:1
+msgid "Color Settings"
+msgstr "颜色设置"
+
+#: assets/js/mk-blocks.js:1
+msgid "The Color"
+msgstr "颜色"
+
+#: assets/js/mk-blocks.js:1
+msgid "woff2 format file path…"
+msgstr "woff2 格式文件路径…"
+
+#: assets/js/mk-blocks.js:1
+msgid "woff format file path…"
+msgstr "woff 格式文件路径…"
+
+#: assets/js/mk-blocks.js:1
+msgid "Embed Code"
+msgstr "嵌入代码"
+
+#: assets/js/mk-blocks.js:1
+msgid "* Only supports importing via @import"
+msgstr "* 仅支持 @import 方式导入"
+
+#: assets/js/mk-blocks.js:1
+msgid "Please paste the code here…"
+msgstr "请将代码粘贴到此处…"
+
+#: assets/js/mk-blocks.js:1
+msgid "The code format you entered is incorrect, please check."
+msgstr "您输入的代码格式不正确，请检查。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Import"
+msgstr "导入"
+
+#: assets/js/mk-blocks.js:1
+msgid "Imported Fonts"
+msgstr "已导入字体"
+
+#: assets/js/mk-blocks.js:1
+msgid "Font Size"
+msgstr "字号"
+
+#: assets/js/mk-blocks.js:1
+msgid "Line Height"
+msgstr "行高"
+
+#: assets/js/mk-blocks.js:1
+msgid "Letter Spacing"
+msgstr "单词间距"
+
+#: assets/js/mk-blocks.js:1
+msgid "Word Spacing"
+msgstr "字母间距"
+
+#: assets/js/mk-blocks.js:1
+msgid "Vertical Scaling"
+msgstr "垂直缩放"
+
+#: assets/js/mk-blocks.js:1
+msgid "Size"
+msgstr "尺寸"
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Styles"
+msgstr "站点样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Basic Elements"
+msgstr "基本元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Color Scheme"
+msgstr "配色方案"
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Styles:Basic Element"
+msgstr "站点样式: 基础元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroke Style"
+msgstr "样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroke Width"
+msgstr "线宽"
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Styles:Link"
+msgstr "站点样式: 链接"
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Styles:Cursor"
+msgstr "站点样式:光标"
+
+#: assets/js/mk-blocks.js:1
+msgid "Basic Element"
+msgstr "基本元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Highlight"
+msgstr "高亮"
+
+#: assets/js/mk-blocks.js:1
+msgid "Selection"
+msgstr "选中"
+
+#: assets/js/mk-blocks.js:1
+msgid "Mask Layer"
+msgstr "遮罩层"
+
+#: assets/js/mk-blocks.js:1
+msgid "Section"
+msgstr "板块"
+
+#: assets/js/mk-blocks.js:1
+msgid "Layout Container"
+msgstr "布局容器"
+
+#: assets/js/mk-blocks.js:1
+msgid "Layout Column"
+msgstr "布局元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Common Container"
+msgstr "普通容器"
+
+#: assets/js/mk-blocks.js:1
+msgid "Icon"
+msgstr "图标"
+
+#: assets/js/mk-blocks.js:1
+msgid "SVG"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Lottie"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Navigation"
+msgstr "导航面板"
+
+#: assets/js/mk-blocks.js:1
+msgid "Table of Contents"
+msgstr "内容目录"
+
+#: assets/js/mk-blocks.js:1
+msgid "Carousel"
+msgstr "走马灯"
+
+#: assets/js/mk-blocks.js:1
+msgid "Slides"
+msgstr "滑块"
+
+#: assets/js/mk-blocks.js:1
+msgid "Slider Pagination"
+msgstr "分页器"
+
+#: assets/js/mk-blocks.js:1
+msgid "Slider Toggles"
+msgstr "切换按钮"
+
+#: assets/js/mk-blocks.js:1
+msgid "Collapse"
+msgstr "折叠面板"
+
+#: assets/js/mk-blocks.js:1
+msgid "Flip Card"
+msgstr "翻转卡片"
+
+#: assets/js/mk-blocks.js:1
+msgid "Smoother"
+msgstr "平滑滚动容器"
+
+#: assets/js/mk-blocks.js:1
+msgid "Horizontal Scroll"
+msgstr "水平滚动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Masonry"
+msgstr "瀑布流"
+
+#: assets/js/mk-blocks.js:1
+msgid "Reel"
+msgstr "卷轴"
+
+#: assets/js/mk-blocks.js:1
+msgid "Marquee"
+msgstr "滚动横幅"
+
+#: assets/js/mk-blocks.js:1
+msgid "Typewriter"
+msgstr "打字机"
+
+#: assets/js/mk-blocks.js:1
+msgid "Search"
+msgstr "搜索"
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Menu"
+msgstr "站点菜单"
+
+#: assets/js/mk-blocks.js:1
+msgid "Query Loop"
+msgstr "循环查询"
+
+#: assets/js/mk-blocks.js:1
+msgid "Post List"
+msgstr "文章列表"
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Content"
+msgstr "文章内容"
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Title"
+msgstr "文章标题"
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Excerpt"
+msgstr "文章摘要"
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Cover"
+msgstr "文章封面"
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Terms"
+msgstr "文章分类"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Post Date"
+msgstr "文章日期"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Post Link"
+msgstr "文章链接"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Post Empty"
+msgstr "无结果"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Pagination"
+msgstr "页码"
+
+#: assets/js/mk-blocks.js:1
+msgid "Breadcrumbs"
+msgstr "面包屑"
+
+#: assets/js/mk-blocks.js:1
+msgid "Global Variable"
+msgstr "全局变量"
+
+#: assets/js/mk-blocks.js:1
+msgid "Site"
+msgstr "站点"
+
+#: assets/js/mk-blocks.js:1
+msgid "Global Blocks"
+msgstr "全局块"
+
+#: assets/js/mk-blocks.js:1
+msgid "Item Classes"
+msgstr "元素CSS类名"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Item CSS"
+msgstr "自定义列表元素CSS"
+
+#: assets/js/mk-blocks.js:1
+msgid "Image Size"
+msgstr "图像尺寸"
+
+#: assets/js/mk-blocks.js:1
+msgid "Responsive Rule"
+msgstr "适配规则"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Rule"
+msgstr "添加规则"
+
+#: assets/js/mk-blocks.js:1
+msgid "MooKwai Featured Cover"
+msgstr "MooKwai特色封面"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom URL"
+msgstr "自定义URL"
+
+#: assets/js/mk-blocks.js:1
+msgid "Load Assets"
+msgstr "加载资源"
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Assets"
+msgstr "自定义资源"
+
+#: assets/js/mk-blocks.js:1
+msgid "Loading"
+msgstr "加载中"
+
+#: assets/js/mk-blocks.js:1
+msgid "Load Complete"
+msgstr "加载完成"
+
+#: assets/js/mk-blocks.js:1
+msgid "Scroll Up"
+msgstr "向上滚动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Scroll Down"
+msgstr "向下滚动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Restore on Leave"
+msgstr "离开时复原"
+
+#: assets/js/mk-blocks.js:1
+msgid "Hide on Leave"
+msgstr "离开时隐藏"
+
+#: assets/js/mk-blocks.js:1
+msgid "Page Settings"
+msgstr "页面设置"
+
+#: assets/js/mk-blocks.js:1
+msgid "Page Styles"
+msgstr "页面样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Link(Hover)"
+msgstr "链接(滑过)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Page Interact"
+msgstr "页面交互"
+
+#: assets/js/mk-blocks.js:1
+msgid "Page Events"
+msgstr "页面事件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Page: Load"
+msgstr "页面: 加载"
+
+#: assets/js/mk-blocks.js:1
+msgid "Page: Scroll"
+msgstr "页面: 滚动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Page: Scroll Scrub"
+msgstr "页面: 滚动捕捉"
+
+#: assets/js/mk-blocks.js:1
+msgid "Page: Mouse Enter"
+msgstr "页面: 鼠标进入"
+
+#: assets/js/mk-blocks.js:1
+msgid "Page: Mouse Move"
+msgstr "页面: 鼠标移动"
+
+#: assets/js/mk-blocks.js:1
+msgid "MooKwai data loading failed, please refresh the page and try again!"
+msgstr "MooKwai 数据加载失败，请重新刷新页面！"
+
+#: assets/js/mk-blocks.js:1
+msgid "MooKwai data save failed, please refresh the page and try again!"
+msgstr "MooKwai 数据保存失败，请重新刷新页面！"
+
+#: assets/js/mk-blocks.js:1
+msgid "MooKwai data has been saved."
+msgstr "MooKwai 数据已保存成功。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Global Styles"
+msgstr "全局样式"
+
+#: assets/js/mk-blocks.js:1
+msgid "Global Style"
+msgstr "全局样式"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Basic container for the page framework, used to categorize different content "
+"sections on the page."
+msgstr "页面框架的基本容器，用于对页面上的不同内容部分进行分类。"
+
+#: assets/js/mk-blocks.js:1
+msgid "No content"
+msgstr "无内容"
+
+#: assets/js/mk-blocks.js:1
+msgid "Number of columns to add"
+msgstr "要添加的元素数量"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Now"
+msgstr "即刻添加"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Grid layout from global styles can be utilized for the automated arrangement "
+"of the page framework. Only layout element blocks are allowed to be inserted "
+"into the layout container."
+msgstr ""
+"全局样式中的网格布局可用于自动安排页面框架。布局容器中只允许插入布局元素块。"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Sub-container of the layout container, capable of automatic layout "
+"optimization based on the grid layout type of the parent container."
+msgstr "布局容器的子容器，能够根据父容器的网格布局类型自动优化布局。"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Can be used in any position that requires wrapping with an independent "
+"container."
+msgstr "可用于任何需要用独立容器包裹的位置。"
+
+#: assets/js/mk-blocks.js:1
+msgid "The button can be set to open a fixed link or trigger a popup."
+msgstr "按钮可设置为打开固定链接或触发弹出窗口。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add plain text content."
+msgstr "添加纯文本内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Type something…"
+msgstr "请输入…"
+
+#: assets/js/mk-blocks.js:1
+msgid "Inserts an icon from the icon library."
+msgstr "从图标库中选择图标并插入。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Display caption"
+msgstr "显示描述"
+
+#: assets/js/mk-blocks.js:1
+msgid "File"
+msgstr "文件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Image size"
+msgstr "图像尺寸"
+
+#: assets/js/mk-blocks.js:1
+msgid "Alt"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Click to expand"
+msgstr "点击展开"
+
+#: assets/js/mk-blocks.js:1
+msgid "Choose/Upload a image"
+msgstr "选择/上传图片"
+
+#: assets/js/mk-blocks.js:1
+msgid "Insert image."
+msgstr "插入图片。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Edit XML"
+msgstr "编辑XML"
+
+#: assets/js/mk-blocks.js:1
+msgid "Choose/Upload File"
+msgstr "选择/上传文件"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Inserting SVG in XML format allows for styling and interactive settings of "
+"its elements through code."
+msgstr "插入 XML 格式的 SVG 可通过代码对其元素进行样式和交互式设置。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Canvas"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "JSON File"
+msgstr "JSON文件"
+
+#: assets/js/mk-blocks.js:1
+msgid "JSON File Path…"
+msgstr "JSON文件路径…"
+
+#: assets/js/mk-blocks.js:1
+msgid "Animation Settings"
+msgstr "动画设置"
+
+#: assets/js/mk-blocks.js:1
+msgid "Render"
+msgstr "渲染"
+
+#: assets/js/mk-blocks.js:1
+msgid "Auto Play"
+msgstr "自动播放"
+
+#: assets/js/mk-blocks.js:1
+msgid "Choose/Upload JSON File"
+msgstr "选择/上传JSON文件"
+
+#: assets/js/mk-blocks.js:1
+msgid "Lottie animation, upload the JSON file of the animation."
+msgstr "Lottie 动画，上传动画的 JSON 文件。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Text & Icon"
+msgstr "文字&图标"
+
+#: assets/js/mk-blocks.js:1
+msgid "Fade"
+msgstr "渐显"
+
+#: assets/js/mk-blocks.js:1
+msgid "Expand"
+msgstr "展开"
+
+#: assets/js/mk-blocks.js:1
+msgid "To Left"
+msgstr "向左"
+
+#: assets/js/mk-blocks.js:1
+msgid "To Right"
+msgstr "向右"
+
+#: assets/js/mk-blocks.js:1
+msgid "To Top"
+msgstr "向上"
+
+#: assets/js/mk-blocks.js:1
+msgid "To Bottom"
+msgstr "向下"
+
+#: assets/js/mk-blocks.js:1
+msgid "Text(Open)"
+msgstr "文字(打开)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Text(Close)"
+msgstr "文字(关闭)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Icon(Close)"
+msgstr "图标(关闭)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Enable Mask"
+msgstr "启用遮罩"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Primary entry points of the website, adaptively presenting content based on "
+"the user's accessing device."
+msgstr "网站的主要入口，根据用户的访问设备自适应呈现内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid "No content."
+msgstr "无内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Contains"
+msgstr "包含"
+
+#: assets/js/mk-blocks.js:1
+msgid "Excludes"
+msgstr "排除"
+
+#: assets/js/mk-blocks.js:1
+msgid "Automatically fetch article titles and generate a table of contents."
+msgstr "自动获取文章标题并生成目录。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Pause on Hover"
+msgstr "滑过时暂停"
+
+#: assets/js/mk-blocks.js:1
+msgid "Stay"
+msgstr "停留"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Offer interactive carousel functionality, allowing the display of a single "
+"or multiple sets of content."
+msgstr "提供交互式旋转木马功能，允许显示单组或多组内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add carousel item."
+msgstr "添加走马灯元素。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Container for all carousel items."
+msgstr "容器用于装载全部的走马灯元素。"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Carousel item allowing the addition of other blocks within it as the content "
+"of a single item."
+msgstr "走马灯元素允许在其中添加其他块作为单个项目的内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Provide interactive carousel functionality, allowing the display of multiple "
+"sets of content with automatic rotation."
+msgstr "提供交互式走马灯效果，允许自动播放显示多组内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add slide items."
+msgstr "添加滑块元素。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Container for all slide items."
+msgstr "容器用于装载全部的滑块元素。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Slide Item"
+msgstr "滑块元素"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Slide item allowing the addition of other blocks within it as the content of "
+"a single item."
+msgstr "滑块元素允许在其中添加其他块作为单个项目的内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Auto Hide"
+msgstr "自动隐藏"
+
+#: assets/js/mk-blocks.js:1
+msgid "Automatically generate pagination elements."
+msgstr "自动生成分页元素。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Toggles"
+msgstr "切换"
+
+#: assets/js/mk-blocks.js:1
+msgid "Previous and next buttons."
+msgstr "前一项与后一项按钮。"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Previous"
+msgstr "前一项"
+
+#: assets/js/mk-blocks.js:1
+msgid "Click to switch to the previous item."
+msgstr "点击切换到上一个元素。"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Next"
+msgstr "下一项"
+
+#: assets/js/mk-blocks.js:1
+msgid "Click to switch to the next item."
+msgstr "点击切换到下一个元素。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Fold"
+msgstr "收起"
+
+#: assets/js/mk-blocks.js:1
+msgid "Expand First"
+msgstr "展开第一个"
+
+#: assets/js/mk-blocks.js:1
+msgid "Heading Html Tag"
+msgstr "标题Html标签"
+
+#: assets/js/mk-blocks.js:1
+msgid "Icon(Expand)"
+msgstr "图标(展开)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Icon(Fold)"
+msgstr "图标(收起)"
+
+#: assets/js/mk-blocks.js:1
+msgid "Initial"
+msgstr "初始化"
+
+#: assets/js/mk-blocks.js:1
+msgid "Auto Fold"
+msgstr "自动收起"
+
+#: assets/js/mk-blocks.js:1
+msgid "Quantity to Add"
+msgstr "添加数量"
+
+#: assets/js/mk-blocks.js:1
+msgid "Click to trigger the expand and collapse effect of the content."
+msgstr "点击可触发内容的展开和折叠效果。"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Collapse element allowing the addition of other blocks within it as the "
+"content of a single element."
+msgstr "折叠元素允许在其中添加其他块作为单一元素的内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Set Title…"
+msgstr "设置标题…"
+
+#: assets/js/mk-blocks.js:1
+msgid "Horizontal"
+msgstr "水平"
+
+#: assets/js/mk-blocks.js:1
+msgid "Vertical"
+msgstr "垂直"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Can display content on both the front and back sides of the container, "
+"switching through a flip interactive animation."
+msgstr "可在容器的正反两面显示内容，并通过翻转互动动画进行切换。"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Flip card Front item allowing the addition of other blocks within it as the "
+"content of a single item."
+msgstr "翻转卡片正面允许在其中添加其他图块作为单个项目的内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Flip card Back item allowing the addition of other blocks within it as the "
+"content of a single item."
+msgstr "翻转卡片背面允许在其中添加其他图块作为单个项目的内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Smooth on Touch"
+msgstr "平滑度（触控）"
+
+#: assets/js/mk-blocks.js:1
+msgid "Parallax Scroll"
+msgstr "视差滚动"
+
+#: assets/js/mk-blocks.js:1
+msgid "Elements"
+msgstr "元素"
+
+#: assets/js/mk-blocks.js:1
+msgid "Offer a smooth scrolling interactive effect for the page."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Container with Horizontal Scroll Interaction."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add horizontal item."
+msgstr "添加水平滚动元素。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Container for all horizontal items."
+msgstr "容器用于装载全部的水平滚动元素。"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Horizontal item allowing the addition of other blocks within it as the "
+"content of a single item."
+msgstr "水平滚动元素允许在其中添加其他块作为单个项目的内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Speed"
+msgstr "速度"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Achieves an infinite loop scrolling effect, commonly used for creating "
+"scrolling subtitles, images, and similar effects."
+msgstr "实现无限循环滚动效果，可用于创建滚动字幕、图像或类似效果。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Empty Stay"
+msgstr "空白停留"
+
+#: assets/js/mk-blocks.js:1
+msgid "Content Stay"
+msgstr "内容停留"
+
+#: assets/js/mk-blocks.js:1
+msgid "Simulate a typewriter-style text input animation."
+msgstr "模拟打字机风格的文本输入动画。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Placeholder"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Auto Complete"
+msgstr "自动完成"
+
+#: assets/js/mk-blocks.js:1
+msgid "Display Icon"
+msgstr "显示图标"
+
+#: assets/js/mk-blocks.js:1
+msgid "Display Button"
+msgstr "显示按钮"
+
+#: assets/js/mk-blocks.js:1
+msgid "Button Type"
+msgstr "按钮类型"
+
+#: assets/js/mk-blocks.js:1
+msgid "Button Text"
+msgstr "按钮文字"
+
+#: assets/js/mk-blocks.js:1
+msgid "Button Icon"
+msgstr "按钮图标"
+
+#: assets/js/mk-blocks.js:1
+msgid "Search form component."
+msgstr "搜索框组件。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Classic"
+msgstr "经典"
+
+#: assets/js/mk-blocks.js:1
+msgid "Menu"
+msgstr "菜单"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Call the menu created in the system and display it on the page. The menu can "
+"be configured as a single-level or multi-level menu."
+msgstr "调用系统中创建的菜单并将其显示在页面上。菜单可配置为单层或多层菜单。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Please go to 'Dashboard' - 'Appearance' - 'Menu' to create your menu."
+msgstr "请进入 “控制台”-“外观”-“菜单 “创建菜单。"
+
+#: assets/js/mk-blocks.js:1 assets/js/mk-blocks.js:4
+msgid "Term"
+msgstr "分类"
+
+#: assets/js/mk-blocks.js:1
+msgid "Display Current"
+msgstr "显示当前页面"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add link"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Offer an intuitive navigation method for users to understand their current "
+"location and easily navigate back to the previous or higher-level pages."
+msgstr ""
+"提供直观的导航方法，让用户了解自己当前的位置，并轻松导航回上一级或更高级别的"
+"页面。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Category"
+msgstr "分类"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Article Content Block, used to display the entire content of a single "
+"article, exclusively for template pages."
+msgstr "文章内容块，用于显示单篇文章的全部内容，专门用于模板页面。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Inherit from template"
+msgstr "继承自模板"
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Type"
+msgstr "文章类型"
+
+#: assets/js/mk-blocks.js:1
+msgid "Articles per Page"
+msgstr "每页文章数"
+
+#: assets/js/mk-blocks.js:1
+msgid "Add from Template"
+msgstr "从模板添加"
+
+#: assets/js/mk-blocks.js:1
+msgid "Please select an appropriate template."
+msgstr "请选择合适的模板。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Automatically retrieve articles from the system."
+msgstr "自动从系统中检索文章。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Link to Article"
+msgstr "链接到文章"
+
+#: assets/js/mk-blocks.js:1
+msgid "Displaying the articles in loop."
+msgstr "循环显示文章。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Restrict View"
+msgstr "限制显示"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Display title information for the current article, and optionally add a link "
+"to the title."
+msgstr "显示当前文章的标题信息，并可选择添加标题链接。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Word Limit"
+msgstr "字数限制"
+
+#: assets/js/mk-blocks.js:1
+msgid ""
+"Display the summary content of the current article. If no summary is set for "
+"the article, automatically extract a portion of the article content."
+msgstr ""
+"显示当前文章的摘要内容。如果没有为文章设置摘要，则自动提取部分文章内容。"
+
+#: assets/js/mk-blocks.js:1
+msgid "Ignore First"
+msgstr "忽略首图"
+
+#: assets/js/mk-blocks.js:1
+msgid "Display the cover image of the article."
+msgstr "显示文章的封面图片。"
+
+#. translators: %s: The image's alt text.
+#: assets/js/mk-blocks.js:4
+msgid "Post Term"
+msgstr "文章分类"
+
+#: assets/js/mk-blocks.js:4
+msgid "Add Link"
+msgstr "添加链接"
+
+#: assets/js/mk-blocks.js:4
+msgid ""
+"Display the category information of the current article, which can be set as "
+"category, tag, or any custom classification under the article type."
+msgstr ""
+"显示当前文章的类别信息，可在文章类型下设置为类别、标签或任何自定义分类。"
+
+#: assets/js/mk-blocks.js:4
+msgid "Format"
+msgstr "格式"
+
+#: assets/js/mk-blocks.js:4
+msgid ""
+"Display the publication date or modification date of the current article."
+msgstr "显示当前文章的出版日期或修改日期。"
+
+#: assets/js/mk-blocks.js:4
+msgid "Add links to articles within the article loop."
+msgstr "在文章循环中添加该文章的链接。"
+
+#: assets/js/mk-blocks.js:4
+msgid "Used in query loop to display pagination links."
+msgstr "在查询循环中用于显示分页链接。"
+
+#: assets/js/mk-blocks.js:4
+msgid "Page Number"
+msgstr "数字"
+
+#: assets/js/mk-blocks.js:4
+msgid "Automatically generate page number."
+msgstr "自动生成页码。"
+
+#: assets/js/mk-blocks.js:4
+msgid "Click to switch to the previous page."
+msgstr "点击切换到上一个页面。"
+
+#: assets/js/mk-blocks.js:4
+msgid "Click to switch to the next page."
+msgstr "点击切换到下一个页面。"
+
+#: assets/js/mk-blocks.js:4
+msgid "Display this block content when there are no results in the loop."
+msgstr "当循环中没有结果时，显示此块内容。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Overview"
+msgstr "概况"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Customize"
+msgstr "自定义"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Documentation"
+msgstr "在线文档"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Save"
+msgstr "保存"
+
+#: assets/js/mk-dashboard.js:1
+msgid "You do not have permission to modify website configurations."
+msgstr "您没有修改网站配置权限。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Choose File"
+msgstr "选择文件"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Add File"
+msgstr "添加文件"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Customize Site"
+msgstr "自定义站点"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Site General Settings"
+msgstr "站点通用设置"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Admin Toolbar"
+msgstr "顶部工具栏"
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"The website frontend displays an admin toolbar at the top, visible only to "
+"website administrators or editors."
+msgstr "网站前台在顶部显示管理员工具栏，仅网站管理员或网站编辑可见。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Dashbard Restrictions"
+msgstr "控制台访问限制"
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"When enabled, individuals without editor-level permissions or higher will be "
+"unable to access the console."
+msgstr "开启后，非网站编辑或以上权限者无法访问控制台。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Support uploading files in SVG format."
+msgstr "支持上传SVG格式文件。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "MooKwai Default Style"
+msgstr "MooKwai 默认样式"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Load the MooKwai default style file on the frontend."
+msgstr "前端加载 MooKwai 默认样式文件。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "MooKwai Extention Scripts"
+msgstr "MooKwai扩展脚本"
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"Load the MooKwai extention js file on the frontend. After disabling it, "
+"would not be able to use the interactive settings."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Load jQuery file on the frontend."
+msgstr "前端加载 jQuery 文件。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Load Three JS file on the frontend."
+msgstr "前端加载 three.js 文件。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Load Barba JS file on the frontend."
+msgstr "前端加载 barba.js 文件。"
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"Add webpages to the Home Screen on iOS devices for a native mobile app-like "
+"experience."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Personalization"
+msgstr "个性化"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Site Theme Color"
+msgstr "站点主题色"
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"Primarily used for mobile devices, allowing the browser interface to match "
+"the website color."
+msgstr "主要用于移动设备中，允许浏览器界面匹配网站颜色。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Favicon"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"The small icon displayed in the browser's address bar, tab, or application "
+"icon."
+msgstr "显示在浏览器地址栏、标签页或应用程序图标中的小图标。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Small Size"
+msgstr "小尺寸"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Big Size"
+msgstr "大尺寸"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Enable Smooth Scroll"
+msgstr "启用模糊滚动"
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"To enable smooth scrolling on all website pages automatically, eliminating "
+"the requirement for distinct smooth scrolling blocks."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"Setting a linear interpolation for smooth scrolling, where a higher value "
+"results in a more pronounced effect."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Custom Head"
+msgstr "自定义Head"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Customize the content of the <head> tag."
+msgstr "自定义<head>标签内的内容。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Custom data attributes in the body."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "CSS Files"
+msgstr "CSS文件"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Import custom stylesheet files. You can import one or multiple files."
+msgstr "导入自定义样式文件，可导入一个或多个文件。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "JS Files"
+msgstr "JS文件"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Import javascript files. You can import one or multiple files."
+msgstr "导入自定义JS文件，可导入一个或多个文件。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Third-Party Integration"
+msgstr "第三方集成"
+
+#: assets/js/mk-dashboard.js:1
+msgid "Statistics and Analysis"
+msgstr "统计与分析"
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"After entering the Google UID, the system will automatically insert the "
+"Google Analytics code into the page."
+msgstr "输入Google UID后，系统将自动在页面中插入Google统计代码。"
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"After entering the Baidu hm.src, the system will automatically insert the "
+"Baidu Statistics code into the page."
+msgstr "输入Baidu hm.src后，系统将自动在页面中插入百度统计代码。"
+
+#: assets/js/mk-dashboard.js:1
+msgid "WooCommerce Scripts"
+msgstr "WooCommerce 脚本文件"
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"When the WooCommerce plugin is activated, is the default style and "
+"interaction files of the plugin included?"
+msgstr "当启用WooCommerce插件后，是否引入该插件默认的样式与交互文件?"
+
+#: assets/js/mk-dashboard.js:1
+msgid ""
+"Thank you for choosing MooKwai, a website generation tool with greater "
+"freedom."
+msgstr "感谢您选择MooKwai，一款更高自由度的网站生成工具。"
+
+#~ msgid "Load Spline file on the frontend."
+#~ msgstr "前端加载 Spline 文件。"
+
+#~ msgid "MooKwai: General Settings"
+#~ msgstr "MooKwai: 通用设置"
+
+#~ msgid "Frequency"
+#~ msgstr "频率"
+
+#~ msgid "Run"
+#~ msgstr "运行"
+
+#~ msgid "Animation Clip"
+#~ msgstr "动画片段"
+
+#~ msgid "Add Clip"
+#~ msgstr "添加片段"
+
+#~ msgid "Custom Clip"
+#~ msgstr "自定义动画片段"
+
+#~ msgid "Clip Settings"
+#~ msgstr "动画片段设置"
+
+#~ msgid "Video Settings"
+#~ msgstr "视频设置"
+
+#~ msgid "External"
+#~ msgstr "外部"
+
+#~ msgid "External URL"
+#~ msgstr "外部URL"
+
+#~ msgid "Video File"
+#~ msgstr "视频文件"
+
+#~ msgid "Embed Link"
+#~ msgstr "添加链接"
+
+#~ msgid "Muted"
+#~ msgstr "静音"
+
+#~ msgid "Pre Load"
+#~ msgstr "预加载"
+
+#~ msgid "Allow Full Screen"
+#~ msgstr "允许全屏"
+
+#~ msgid "Picture in Picture"
+#~ msgstr "画中画"
+
+#~ msgid "Please Upload Video"
+#~ msgstr "请上传视频"
+
+#~ msgid "Item minWidth"
+#~ msgstr "元素最小宽度"
+
+#~ msgid "Column Gap"
+#~ msgstr "列间隙"
+
+#~ msgid "Number of sections you want to add."
+#~ msgstr "要添加的板块数量"
+
+#~ msgid "Masonry Item"
+#~ msgstr "瀑布流元素"
+
+#~ msgid ""
+#~ "Masonry item allowing the addition of other blocks within it as the "
+#~ "content of a single element."
+#~ msgstr "瀑布流元素允许在其中添加其他块作为单一元素的内容。"
+
+#~ msgid "Display Limitation"
+#~ msgstr "限制显示"

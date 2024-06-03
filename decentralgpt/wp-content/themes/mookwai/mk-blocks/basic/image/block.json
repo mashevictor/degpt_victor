@@ -1,0 +1,86 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/image",
+  "title": "Image",
+  "version": "1.0",
+  "category": "mk-b-cat-basic",
+  "description": "Insert image.",
+  "keywords": ["mookwai", "image", "media", "picture", "jpg", "png"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "mediaFile" : {
+      "type": "string"
+    },
+    "sourceURL" : {
+      "type": "string"
+    },
+    "sizeSlug" : {
+      "type": "string",
+      "default": ""
+    },
+    "alt": {
+      "type": "string",
+      "source": "attribute",
+      "selector": "img",
+      "attribute": "alt",
+      "default": "",
+      "__experimentalRole": "content"
+    },
+    "isCaption": {
+      "type": "boolean",
+      "default": false
+    },
+    "caption": {
+      "type": "string"
+    },
+    "isLightBox": {
+      "type": "boolean",
+      "default": false
+    },
+    "linkEnable": {
+      "type": "boolean",
+      "default": true
+    },
+    "link": {
+      "type": "object",
+      "default": {"type": "url"}
+    },
+    "linkRel": {
+      "type": "array"
+    },
+    "openInNew": {
+      "type": "boolean",
+      "default": false
+    },
+    "ariaLabel": {
+      "type": "string"
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "parentIsPreview", "parentHasLink" ],
+  "supports": {
+		"html": false
+	}
+}

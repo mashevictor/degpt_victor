@@ -1,0 +1,64 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/post-terms",
+  "title": "文章分类",
+  "version": "1.0",
+  "category": "mk-b-cat-site",
+  "description": "Basic containers for page sections",
+  "keywords": ["mookwai", "category", "terms" ],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "term": {
+			"type": "string",
+      "default": "category"
+		},
+		"separator": {
+			"type": "string",
+			"default": ", "
+		},
+		"prefix": {
+			"type": "string"
+		},
+		"suffix": {
+			"type": "string"
+		},
+    "isLink": {
+      "type": "boolean",
+      "default": false
+    },
+    "linkRel": {
+      "type": "array"
+    },
+    "openInNew": {
+      "type": "boolean",
+      "default": false
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "postId", "postType", "parentIsPreview", "parentHasLink" ],
+  "supports": {
+		"html": false
+	}
+}

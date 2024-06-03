@@ -1,0 +1,53 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/post-link",
+  "title": "文章链接",
+  "version": "1.0",
+  "category": "mk-b-cat-site",
+  "description": "按钮可设置一个固定链接或打开一个弹窗。",
+  "keywords": ["mookwai", "section", "layout", "container", "grid", "flex"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "linkEnable": {
+      "type": "boolean",
+      "default": true
+    },
+    "linkRel": {
+      "type": "array"
+    },
+    "openInNew": {
+      "type": "boolean",
+      "default": false
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "providesContext": {
+    "parentIsPreview": "interactPreview"
+	},
+  "usesContext": [ "postId", "postType", "queryId", "parentIsPreview" ],
+  "supports": {
+		"html": false
+	}
+}

@@ -1,0 +1,79 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/post-list",
+  "title": "文章列表",
+  "version": "1.0",
+  "category": "mk-b-cat-site",
+  "parent": [ "mk-block/post-query" ],
+  "description": "自动获取系统内文章",
+  "keywords": ["mookwai", "section", "layout", "container", "grid", "flex"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "globalLayout": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "layoutType": {
+      "type": "string"
+    },
+    "columns": {
+      "type": "object",
+      "default": {
+        "reg": 1,
+        "lg": 1,
+        "xl": 1,
+        "xxl": 1,
+        "p": 1,
+        "md": 1,
+        "mdp": 1,
+        "sm": 1,
+        "smp": 1
+      }
+    },
+    "isLink": {
+      "type": "boolean",
+      "default": false
+    },
+    "linkRel": {
+      "type": "array"
+    },
+    "openInNew": {
+      "type": "boolean",
+      "default": false
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [
+		"queryId",
+		"query",
+		"queryContext",
+		"templateSlug",
+		"previewPostType"
+	],
+  "supports": {
+    "reusable": false,
+		"html": false,
+    "layout": false
+	}
+}

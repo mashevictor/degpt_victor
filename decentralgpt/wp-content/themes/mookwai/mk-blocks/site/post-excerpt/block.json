@@ -1,0 +1,47 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/post-excerpt",
+  "title": "文章摘要",
+  "version": "1.0",
+  "category": "mk-b-cat-site",
+  "description": "Basic containers for page sections",
+  "keywords": ["mookwai", "excerpt", "post", "container", "grid", "flex"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "tagName": {
+			"type": "string",
+      "default": "p"
+		},
+		"excerptLength": {
+			"type": "number",
+			"default": 200
+		},
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "postId", "postType", "queryId" ],
+  "supports": {
+		"html": false
+	}
+}

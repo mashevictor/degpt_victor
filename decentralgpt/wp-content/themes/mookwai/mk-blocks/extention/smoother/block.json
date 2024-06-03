@@ -1,0 +1,46 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/smoother",
+  "title": "平滑滚动容器",
+  "version": "1.0",
+  "category": "mk-b-cat-extention",
+  "description": "页面框架的基本容器，用于对页面不同内容板块进行归纳。",
+  "keywords": ["mookwai", "section"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "tagName": {
+      "type": "string",
+      "default": "div"
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "providesContext": {
+    "parentIsPreview": "interactPreview"
+  },
+  "usesContext": [ "parentIsPreview" ],
+  "supports": {
+		"html": false
+	}
+}

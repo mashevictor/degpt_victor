@@ -1,0 +1,60 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/flip-card",
+  "title": "翻转卡片",
+  "version": "1.0",
+  "category": "mk-b-cat-extention",
+  "description": "Basic containers for page sections",
+  "keywords": ["mookwai", "section", "layout", "container", "grid", "flex"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "allowedBlocks": {
+      "type": "array",
+      "default": [ "mk-block/flip-card-front", "mk-block/flip-card-back" ]
+    },
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "tagName": {
+      "type": "string",
+      "default": "div"
+    },
+    "devices": {
+      "type": "array",
+      "default": ["Desktop", "Tablet", "Mobile"]
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "lock": {
+      "type": "object",
+      "default": {
+        "insert": true
+      }
+    }
+	},
+  "providesContext": {
+    "parentIsPreview": "interactPreview"
+  },
+  "usesContext": [ "parentIsPreview" ],
+  "supports": {
+		"html": false
+	}
+}

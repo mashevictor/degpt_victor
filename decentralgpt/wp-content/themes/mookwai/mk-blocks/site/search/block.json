@@ -1,0 +1,69 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/search",
+  "version": "1.0",
+  "title": "搜索框",
+  "category": "mk-b-cat-site",
+  "description": "Basic containers for page sections",
+  "keywords": ["mookwai", "section", "layout", "container", "grid", "flex"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "placeholder": {
+      "type": "string",
+      "default": "Search something..."
+    },
+    "isIcon": {
+      "type": "boolean"
+    },
+    "searchIcon": {
+			"type": "object",
+      "default":{"library":"MooKwaiIcon","slug":"search","size":"medium"}
+		},
+    "isButton": {
+      "type": "boolean"
+    },
+    "buttonType": {
+      "type": "string",
+      "default": "text"
+    },
+    "buttonText": {
+      "type": "string",
+      "default": "Search"
+    },
+    "buttonIcon": {
+      "type": "object",
+      "default":{"library":"MooKwaiIcon","slug":"search","size":"medium"}
+    },
+    "autoComplete": {
+      "type": "boolean",
+      "default": true
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "parentIsPreview", "parentHasLink" ],
+  "supports": {
+		"html": false
+	}
+}

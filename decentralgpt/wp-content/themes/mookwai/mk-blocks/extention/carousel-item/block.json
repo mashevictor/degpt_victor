@@ -1,0 +1,44 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/carousel-item",
+  "version": "1.0",
+  "title": "Item",
+  "category": "mk-b-cat-extention",
+  "parent": [ "mk-block/carousel-container" ],
+  "description": "Basic containers for page sections",
+  "keywords": ["mookwai", "section", "layout", "container", "grid", "flex"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "bgMedia": {
+      "type": "object",
+      "default": {}
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "providesContext": {
+    "parentIsPreview": "interactPreview"
+  },
+  "usesContext": [ "parentIsPreview" ],
+  "supports": {
+		"html": false
+	}
+}

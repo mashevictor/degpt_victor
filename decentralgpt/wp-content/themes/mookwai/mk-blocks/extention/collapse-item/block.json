@@ -1,0 +1,58 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/collapse-item",
+  "title": "元素",
+  "version": "1.0",
+  "category": "mk-b-cat-extention",
+  "description": "Basic containers for page sections",
+  "keywords": ["mookwai", "section", "layout", "container", "grid", "flex"],
+  "textdomain": "mookwai",
+  "parent": [ "mk-block/collapse" ],
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "headingTagName": {
+      "type": "string",
+      "default": "span"
+    },
+    "heading": {
+      "type": "string"
+    },
+    "iconExpand": {
+      "type": "object",
+      "default":{"library":"MooKwaiIcon","slug":"bottom","size":"medium"}
+    },
+    "iconFold": {
+      "type": "object"
+    },
+    "initExpand": {
+      "type": "string",
+      "default": "expand"
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "providesContext": {
+    "parentIsPreview": "interactPreview"
+  },
+  "usesContext": [ "parentIsPreview", "headingTagName", "iconExpand", "iconFold", "initExpand" ],
+  "supports": {
+		"html": false
+	}
+}

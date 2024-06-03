@@ -1,0 +1,66 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/menu",
+  "title": "站点菜单",
+  "version": "0.1.0",
+  "category": "mk-b-cat-site",
+  "description": "Basic containers for page sections",
+  "keywords": ["mookwai", "menu", "navigation" ],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "menuSlug": {
+      "type": "number"
+    },
+    "tagName": {
+      "type": "string",
+      "default": "nav"
+    },
+    "linkEnable": {
+      "type": "boolean",
+      "default": true
+    },
+    "openInNew": {
+      "type": "boolean",
+      "default": false
+    },
+    "iconChild": {
+      "type": "object",
+      "default":{"library":"MooKwaiIcon","slug":"bottom","size":"medium"}
+    },
+    "isInteractive": {
+      "type": "boolean",
+      "default": false
+    },
+    "devices": {
+      "type": "array",
+      "default": ["Desktop", "Tablet", "Mobile"]
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "parentIsPreview", "parentHasLink" ],
+  "supports": {
+		"html": false
+	}
+}

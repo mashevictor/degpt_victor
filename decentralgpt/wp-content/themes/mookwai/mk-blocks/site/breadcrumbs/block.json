@@ -1,0 +1,70 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/breadcrumbs",
+  "title": "面包屑",
+  "version": "1.0",
+  "category": "mk-b-cat-site",
+  "description": "自动生成文章面包屑",
+  "keywords": ["mookwai", "breadcrumbs", "link", "navigation" ],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "term": {
+			"type": "string",
+      "default": "category"
+		},
+    "prefix": {
+      "type": "string"
+    },
+    "separator": {
+			"type": "string",
+			"default": "text"
+		},
+    "separatorText": {
+			"type": "string",
+			"default": " - "
+		},
+    "separatorIcon": {
+			"type": "object",
+      "default":{"library":"MooKwaiIcon","slug":"right","size":"medium"}
+		},
+    "currentName": {
+      "type": "boolean",
+      "default": true
+    },
+    "isLink": {
+      "type": "boolean",
+      "default": true
+    },
+    "openInNew": {
+      "type": "boolean",
+      "default": false
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "postId", "postType", "parentIsPreview", "parentHasLink" ],
+  "supports": {
+		"html": false
+	}
+}

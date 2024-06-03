@@ -1,0 +1,56 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/flip-card-front",
+  "title": "正面",
+  "version": "1.0",
+  "category": "mk-b-cat-extention",
+  "description": "Basic containers for page sections",
+  "keywords": ["mookwai", "section", "layout", "container", "grid", "flex"],
+  "textdomain": "mookwai",
+  "parent": [ "mk-block/flip-card" ],
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "tagName": {
+      "type": "string",
+      "default": "div"
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "direction": {
+      "type": "string",
+      "default": "left"
+    },
+    "lock": {
+      "type": "object",
+      "default": {
+        "remove": true,
+        "move": true
+      }
+    }
+	},
+  "providesContext": {
+    "parentIsPreview": "interactPreview"
+  },
+  "usesContext": [ "parentIsPreview" ],
+  "supports": {
+		"html": false,
+    "lock": false
+	}
+}

@@ -1,0 +1,962 @@
+# Translation of 翻译WordPress插件 - Ultimate Dashboard &#8211; Custom WordPress Dashboard in Chinese (China)
+# This file is distributed under the same license as the 翻译WordPress插件 - Ultimate Dashboard &#8211; Custom WordPress Dashboard package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-03 14:52+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: 翻译WordPress插件 - Ultimate Dashboard &#8211; Custom WordPress Dashboard\n"
+"POT-Creation-Date: \n"
+"Last-Translator: 搬主题 <admin@banzhuti.com>\n"
+"Language-Team: \n"
+
+#: modules/admin-page/class-admin-page-module.php:135
+msgid "Page Name"
+msgstr "页面名称"
+
+#: modules/admin-page/class-admin-page-module.php:137
+#: modules/admin-page/class-admin-page-module.php:250
+msgid "Content Type"
+msgstr "内容类型"
+
+#: modules/admin-page/class-admin-page-module.php:139
+#: modules/widget/class-widget-module.php:114
+msgid "User Roles"
+msgstr "用户角色"
+
+#: modules/admin-page/class-admin-page-module.php:140
+#: modules/admin-page/class-admin-page-module.php:249
+#: modules/feature/templates/feature-template.php:65
+#: modules/feature/templates/feature-template.php:66
+#: modules/widget/class-widget-module.php:115
+#: modules/widget/class-widget-module.php:194
+msgid "Active"
+msgstr "已启用"
+
+#: modules/admin-page/class-admin-page-module.php:259
+msgid "Display Options"
+msgstr "显示选项"
+
+#: modules/admin-page/inc/column-content.php:40
+#: modules/admin-page/inc/column-content.php:88
+msgid "None"
+msgstr "无"
+
+#. translators: %1$s: is the text prefix, %2$s: is the editor or builder name,
+#. %3$s: is the text suffix.
+#: modules/admin-page/inc/column-content.php:68
+msgid "%1$s %2$s %3$s"
+msgstr "%1$s %2$s %3$s"
+
+#: modules/admin-page/templates/metaboxes/advanced.php:15
+msgid "Custom CSS"
+msgstr "个性化定制 CSS"
+
+#: modules/admin-page/templates/metaboxes/content-type.php:18
+msgid "Default Editor"
+msgstr "默认编辑器"
+
+#: modules/admin-page/templates/metaboxes/content-type.php:19
+msgid "HTML Editor"
+msgstr "HTML编辑器"
+
+#: modules/admin-page/templates/metaboxes/menu.php:23
+msgid "Menu Type"
+msgstr "菜单类型"
+
+#: modules/admin-page/templates/metaboxes/menu.php:48
+msgid "Menu Order"
+msgstr "菜单顺序"
+
+#: modules/branding/class-branding-module.php:78
+#: modules/feature/templates/feature-template.php:17
+msgid "White Label"
+msgstr "白标签"
+
+#: modules/feature/class-feature-module.php:81
+msgid "Modules"
+msgstr "模块"
+
+#: modules/feature/class-feature-module.php:121
+msgid "Invalid nonce"
+msgstr "无效随机值"
+
+#: modules/feature/class-feature-module.php:132
+msgid "Saved"
+msgstr "已保存"
+
+#: modules/feature/templates/feature-template.php:64
+msgid "Status: "
+msgstr "狀態："
+
+#: modules/feature/templates/feature-template.php:65
+#: modules/feature/templates/feature-template.php:66
+msgid "Inactive"
+msgstr "未激活"
+
+#: modules/tool/class-tool-module.php:75
+msgid "Tools"
+msgstr "工具类"
+
+#: modules/tool/templates/tools-template.php:23
+msgid "Export File"
+msgstr " 导出文件"
+
+#: modules/tool/templates/tools-template.php:34
+msgid "Import File"
+msgstr "导入文件"
+
+#: modules/widget/templates/widget-types/icon-widget.php:20
+msgid "Icon"
+msgstr "图标"
+
+#: modules/widget/templates/widget-types/icon-widget.php:55
+msgid "Tooltip"
+msgstr "工具提示"
+
+#: modules/widget/templates/widget-types/icon-widget.php:65
+msgid "Link"
+msgstr "链接"
+
+#: modules/widget/templates/widget-types/text-widget.php:29
+msgid "Content"
+msgstr "正文"
+
+#: modules/admin-menu/class-admin-menu-module.php:86
+msgid "Admin Menu"
+msgstr "管理菜单"
+
+#: modules/admin-page/ajax/change-active-status.php:22
+msgid "Post not found"
+msgstr "找不到文章"
+
+#: modules/admin-menu/ajax/class-get-menu.php:32
+#: modules/admin-menu/ajax/get-menu.php:18
+#: modules/admin-page/ajax/change-active-status.php:18
+#: modules/widget/ajax/change-active-status.php:18
+msgid "Invalid token"
+msgstr "令牌无效"
+
+#: modules/admin-menu/templates/menu-list.php:46
+#: modules/admin-page/templates/metaboxes/menu.php:29
+msgid "Submenu"
+msgstr "子菜单"
+
+#: modules/admin-menu/templates/menu-list.php:73
+#: modules/admin-page/class-admin-page-module.php:136
+#: modules/admin-page/templates/icon-selector.php:27
+msgid "Menu Icon"
+msgstr "菜单图标"
+
+#: inc/cpt.php:20 modules/widget/inc/post-type.php:16
+msgctxt "Add New on Toolbar"
+msgid "Dashboard Widget"
+msgstr "仪表盘小工具"
+
+#: inc/cpt.php:25 modules/widget/inc/post-type.php:21
+msgid "All Widgets"
+msgstr "所有小工具"
+
+#: inc/cpt.php:77 modules/admin-page/class-admin-page-module.php:106
+#: modules/widget/class-widget-module.php:83
+msgid "Custom field updated."
+msgstr "自定义域更新。"
+
+#: inc/cpt.php:78 modules/admin-page/class-admin-page-module.php:107
+#: modules/widget/class-widget-module.php:84
+msgid "Custom field deleted."
+msgstr "自定义域删除。"
+
+#. translators: Publish box date format, see http://php.net/date for more info.
+#: inc/cpt.php:88 modules/admin-page/class-admin-page-module.php:117
+#: modules/widget/class-widget-module.php:94
+msgid "M j, Y @ G:i"
+msgstr "Y年m月d日 G:i"
+
+#: inc/cpt.php:107 modules/widget/class-widget-module.php:112
+msgid "Widget Title"
+msgstr "小工具标题"
+
+#: inc/cpt.php:109
+msgid "Date"
+msgstr "日期"
+
+#: inc/cpt.php:134 modules/admin-page/class-admin-page-module.php:258
+#: modules/admin-page/inc/column-content.php:60
+#: modules/widget/inc/column-content.php:22
+#: modules/widget/templates/widget-types/html-widget.php:22
+#: widgets/html-widget.php:21
+msgid "HTML"
+msgstr "编辑 HTML 源码"
+
+#: inc/cpt.php:136 modules/widget/inc/column-content.php:24
+msgid "Text"
+msgstr "文本"
+
+#: inc/fields.php:30 modules/widget/class-widget-module.php:200
+msgid "Position"
+msgstr "位置"
+
+#: inc/fields.php:38 modules/widget/class-widget-module.php:201
+msgid "Priority"
+msgstr "优先级"
+
+#: inc/fields.php:135 modules/login-customizer/sections/layout.php:41
+#: modules/widget/templates/metaboxes/priority.php:26
+msgid "Default"
+msgstr "默认"
+
+#: inc/fields.php:141 modules/widget/templates/metaboxes/priority.php:32
+msgid "Low"
+msgstr "低"
+
+#: inc/fields.php:147 modules/widget/templates/metaboxes/priority.php:38
+msgid "High"
+msgstr "高"
+
+#: inc/settings.php:24 modules/setting/class-setting-module.php:107
+msgid "General"
+msgstr "主要"
+
+#: inc/settings.php:25 modules/admin-page/class-admin-page-module.php:260
+#: modules/setting/class-setting-module.php:110
+msgid "Advanced"
+msgstr "高级"
+
+#: inc/settings.php:26 modules/branding/class-branding-module.php:122
+#: modules/branding/inc/settings.php:22
+#: modules/setting/class-setting-module.php:113
+msgid "Misc"
+msgstr "杂项"
+
+#: inc/settings.php:109 modules/admin-page/inc/column-content.php:78
+#: modules/setting/templates/fields/remove-all-widgets.php:17
+#: modules/widget/inc/column-content.php:36
+msgid "All"
+msgstr "全部"
+
+#: inc/settings.php:256 modules/setting/templates/fields/headline-text.php:16
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: inc/tools.php:20 modules/tool/class-tool-module.php:119
+msgid "Export Widgets"
+msgstr "导出小工具"
+
+#: inc/tools.php:21 modules/tool/class-tool-module.php:120
+msgid "Import Widgets"
+msgstr "导入小工具"
+
+#: inc/tools.php:66 modules/tool/templates/fields/import-field.php:17
+msgid "Select File"
+msgstr "选择文件"
+
+#: inc/tools.php:178 modules/tool/inc/process-import.php:23
+msgid "Please upload a valid .json file"
+msgstr "请上传一个可用的 .json 文件"
+
+#: inc/tools.php:192 modules/tool/inc/process-import.php:37
+msgid "Please upload a file to import"
+msgstr "请上传文件来导入"
+
+#: modules/branding/class-branding-module.php:125
+#: modules/branding/inc/settings.php:25
+msgid "Enable"
+msgstr "启用"
+
+#: modules/branding/class-branding-module.php:126
+#: modules/branding/inc/settings.php:26
+#: modules/login-customizer/sections/layout.php:39
+msgid "Layout"
+msgstr "布局"
+
+#: modules/branding/class-branding-module.php:127
+#: modules/branding/inc/settings.php:27
+msgid "Accent Color"
+msgstr "强调颜色"
+
+#: modules/branding/class-branding-module.php:132
+#: modules/branding/inc/settings.php:32
+msgid "Footer Text"
+msgstr "页脚内容"
+
+#: modules/branding/inc/settings.php:91
+#: modules/branding/templates/fields/admin-bar-logo.php:17
+msgid "Add or Upload File"
+msgstr "添加或上传文件"
+
+#: modules/login-customizer/controls/class-udb-customize-range-control.php:79
+msgid "Reset Value"
+msgstr "重置值"
+
+#: modules/login-customizer/inc/add-sections.php:15
+#: modules/login-customizer/login-customizer.php:56
+#: modules/login-customizer/sections/template.php:30
+msgid "Templates"
+msgstr "模版"
+
+#: modules/login-customizer/inc/add-sections.php:23
+#: modules/login-customizer/login-customizer.php:64
+#: modules/login-customizer/sections/logo.php:36
+msgid "Logo"
+msgstr "徽标"
+
+#: modules/login-customizer/inc/add-sections.php:31
+#: modules/login-customizer/login-customizer.php:72
+msgid "Background"
+msgstr "背景"
+
+#: modules/login-customizer/inc/add-sections.php:39
+#: modules/login-customizer/login-customizer.php:80
+msgid "Login Form"
+msgstr "登录表单"
+
+#: modules/login-customizer/inc/add-sections.php:55
+#: modules/login-customizer/login-customizer.php:96
+msgid "Labels"
+msgstr "标签"
+
+#: modules/login-customizer/inc/add-sections.php:87
+#: modules/login-customizer/login-customizer.php:128
+msgid "Error Messages"
+msgstr "错误讯息"
+
+#: modules/login-customizer/inc/add-sections.php:95
+#: modules/login-customizer/login-customizer.php:136
+msgid "Redirect"
+msgstr "重定向"
+
+#: modules/login-customizer/sections/bg.php:31
+#: modules/login-customizer/sections/button.php:167
+#: modules/login-customizer/sections/fields.php:196
+#: modules/login-customizer/sections/layout.php:87
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: modules/login-customizer/sections/bg.php:54
+msgid "Background Image"
+msgstr "背景图像"
+
+#: modules/login-customizer/sections/button.php:37
+#: modules/login-customizer/sections/fields.php:37
+msgid "Height"
+msgstr "高度"
+
+#: modules/login-customizer/sections/button.php:95
+#: modules/login-customizer/sections/fields.php:124
+#: modules/login-customizer/sections/layout.php:281
+msgid "Border Radius"
+msgstr "边框半径"
+
+#: modules/login-customizer/sections/button.php:121
+#: modules/login-customizer/sections/fields.php:150
+#: modules/login-customizer/sections/labels.php:33
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: modules/login-customizer/sections/fields.php:95
+#: modules/login-customizer/sections/layout.php:229
+msgid "Border Width"
+msgstr "边框宽度"
+
+#: modules/login-customizer/sections/fields.php:242
+#: modules/login-customizer/sections/layout.php:255
+msgid "Border Color"
+msgstr "边框颜色"
+
+#: modules/login-customizer/sections/form-footer.php:33
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: modules/login-customizer/sections/layout.php:113
+msgid "Width"
+msgstr "宽度"
+
+#: modules/login-customizer/sections/logo.php:96
+msgid "Logo URL"
+msgstr "Logo 链接"
+
+#: templates/tools-template.php:22
+msgid "Export"
+msgstr "导出"
+
+#: templates/tools-template.php:33
+msgid "Import"
+msgstr "导入"
+
+#: class-setup.php:77 modules/admin-menu/templates/menu-list.php:41
+#: modules/setting/class-setting-module.php:55
+msgid "Settings"
+msgstr "设置"
+
+#: modules/admin-page/templates/icon-selector.php:32
+#: modules/widget/templates/widget-types/icon-widget.php:47
+#: widgets/icon-widget.php:152
+msgid "Select Icon"
+msgstr "选择图标"
+
+#: widgets/icon-widget.php:195
+msgid "Target"
+msgstr "打开方式"
+
+#: modules/widget/templates/widget-types/text-widget.php:38
+msgid "Fixed Height"
+msgstr "固定高度"
+
+#: modules/widget/ajax/change-active-status.php:37
+msgid "Page/post has been de-activated."
+msgstr "页面/帖子已被停用。"
+
+#: modules/widget/ajax/change-active-status.php:29
+msgid "Page/post has been activated."
+msgstr "页面/帖子已激活。"
+
+#: modules/widget/ajax/change-active-status.php:22
+msgid "Page/post not found"
+msgstr "找不到页面/帖子"
+
+#: modules/tool/templates/fields/import-field.php:14
+msgid "Select the Widgets JSON file you would like to import. When you click the import button below, Ultimate Dashboard will import the widgets."
+msgstr "选择您要导入的Widgets JSON文件。当您单击下面的导入按钮时,Ultimate Dashboard将导入小部件。"
+
+#: modules/tool/templates/fields/export-field.php:14
+msgid "Use the export button to export to a .json file which you can then import to another Ultimate Dashboard installation."
+msgstr "使用导出按钮导出到.json文件，然后可以将其导入到另一个Ultimate Dashboard安装。"
+
+#: modules/tool/inc/process-import.php:59
+msgid "Your import file is empty"
+msgstr "您的导入文件为空"
+
+#: modules/setting/class-setting-module.php:134
+msgid "Use only if your icons are not displayed correctly."
+msgstr "仅在图标显示不正确时使用。"
+
+#: modules/feature/templates/feature-template.php:37
+msgid "Rearrange, hide & rename admin menu items for specific user roles with the Admin Menu Editor module."
+msgstr "使用管理菜单编辑器模块重新排列，隐藏和重命名特定用户角色的管理菜单项。"
+
+#: modules/feature/templates/feature-template.php:31
+msgid "Create useful custom admin pages for your customers with the Admin Pages module."
+msgstr "使用\"管理页面\"模块为客户创建有用的自定义管理页面。"
+
+#: modules/feature/templates/feature-template.php:25
+msgid "Fully customize the login screen, directly within the WordPress customizer."
+msgstr "直接在WordPress定制程序中完全自定义登录屏幕。"
+
+#: modules/feature/templates/feature-template.php:19
+msgid "White label & rebrand the WordPress Admin area with the White Label Module."
+msgstr "白色标签，并使用白色标签模块将WordPress Admin区域重命名。"
+
+#: modules/admin-page/templates/metaboxes/menu.php:26
+msgid "Top-level Menu"
+msgstr "顶层菜单"
+
+#: modules/admin-page/templates/metaboxes/display.php:44
+msgid "Remove the admin notices (if any) from the Custom Admin Page."
+msgstr "从\"自定义管理员\"页面中删除管理员通知（如果有)."
+
+#: modules/admin-page/templates/metaboxes/display.php:41
+msgid "Remove Admin Notices"
+msgstr "删除管理员通知"
+
+#: modules/admin-page/templates/metaboxes/display.php:34
+msgid "Remove the default margins from the Custom Admin Page."
+msgstr "从自定义管理页面中删除默认边距。"
+
+#: modules/admin-page/templates/metaboxes/display.php:31
+msgid "Remove Page Margin"
+msgstr "删除页边距"
+
+#: modules/admin-page/templates/metaboxes/display.php:24
+msgid "Remove the page title from the Custom Admin Page."
+msgstr "从\"自定义管理页面\"中删除页面标题。"
+
+#: modules/admin-page/templates/metaboxes/display.php:21
+msgid "Remove Page Title"
+msgstr "删除页面标题"
+
+#: modules/admin-page/inc/post-type.php:25
+msgid "No Admin Pages in Trash."
+msgstr "垃圾桶中没有管理页面。"
+
+#: modules/admin-page/inc/post-type.php:24
+msgid "No Admin Pages found."
+msgstr "找不到管理页面。"
+
+#: modules/admin-page/inc/post-type.php:23
+msgid "Search Admin Pages"
+msgstr "搜索管理页面"
+
+#: modules/admin-page/inc/post-type.php:21
+msgid "View Admin Page"
+msgstr "查看管理页面"
+
+#: modules/admin-page/inc/post-type.php:20
+msgid "Edit Admin Page"
+msgstr "编辑管理员页面"
+
+#: modules/admin-page/inc/post-type.php:19
+msgid "New Admin Page"
+msgstr "新管理员页面"
+
+#: modules/admin-page/inc/post-type.php:18
+msgid "Add Admin Page"
+msgstr "添加管理员页面"
+
+#: modules/admin-page/class-admin-page-module.php:256
+msgid "Menu Attributes"
+msgstr "菜单属性"
+
+#: modules/admin-page/class-admin-page-module.php:196
+#: modules/admin-page/inc/post-type.php:22
+#: modules/feature/templates/feature-template.php:29
+msgid "Admin Pages"
+msgstr "管理员页面"
+
+#: modules/admin-page/class-admin-page-module.php:138
+#: modules/admin-page/templates/metaboxes/menu.php:35
+msgid "Parent Menu"
+msgstr "上级菜单"
+
+#: modules/admin-page/class-admin-page-module.php:119
+msgid "Admin Page draft updated."
+msgstr "管理员页面草稿已更新。"
+
+#. translators: Publish box date format, see http://php.net/date for more info.
+#: modules/admin-page/class-admin-page-module.php:116
+msgid "Admin Page scheduled for: <strong>%1$s</strong>."
+msgstr "计划的管理页面为:<strong>%1$s</strong>."
+
+#: modules/admin-page/class-admin-page-module.php:113
+msgid "Admin Page submitted."
+msgstr "管理员页面已提交。"
+
+#: modules/admin-page/class-admin-page-module.php:112
+msgid "Admin Page saved."
+msgstr "管理员页面已保存。"
+
+#. translators: %s: Date and time of the revision.
+#: modules/admin-page/class-admin-page-module.php:111
+msgid "Admin Page published."
+msgstr "管理员页面已发布。"
+
+#. translators: %s: Date and time of the revision.
+#: modules/admin-page/class-admin-page-module.php:110
+msgid "Admin Page restored to revision from %s"
+msgstr "管理页面已从%s恢复到修订版"
+
+#: modules/admin-page/class-admin-page-module.php:105
+#: modules/admin-page/class-admin-page-module.php:108
+msgid "Admin Page updated."
+msgstr "管理员页面已更新。"
+
+#: modules/admin-page/ajax/change-active-status.php:37
+msgid "page has been de-activated."
+msgstr "页面已被停用。"
+
+#: modules/admin-page/ajax/change-active-status.php:29
+msgid "page has been activated."
+msgstr "页面已激活。"
+
+#: modules/admin-page/inc/meta-boxes.php:183
+#: modules/admin-page/templates/metaboxes/pro-link.php:15
+msgid "Restrict Admin Pages to specific Users or User Roles"
+msgstr "将管理员页面限制为特定的用户或用户角色"
+
+#: modules/admin-page/inc/meta-boxes.php:182
+#: modules/admin-page/templates/metaboxes/pro-link.php:14
+msgid "Use <strong>Elementor</strong> or <strong>Beaver Builder</strong> to create custom Admin Pages"
+msgstr "使用<strong>Elementor</strong>或<strong>Beaver Builder</strong>创建自定义管理页面"
+
+#: modules/admin-menu/templates/template.php:34
+#: modules/feature/templates/feature-template.php:35
+msgid "Admin Menu Editor"
+msgstr "管理员菜单编辑器"
+
+#: modules/admin-menu/templates/menu-list.php:96
+msgid "Paste a base64-encoded SVG using a data URI, which will be colored to match the color scheme. This should begin with 'data:image/svg+xml;base64,'. Or you can use this tool to generate it: https://dopiaza.org/tools/datauri/index.php"
+msgstr "使用数据URI粘贴base64编码的SVG,该URI将被着色以匹配配色方案。这应该以\"data:image/svg+xml;base64\"开头。或者您可以使用此工具生成它:https://dopiaza.org/tools/datauri/index.php"
+
+#: modules/admin-menu/ajax/class-get-menu.php:36
+#: modules/admin-menu/ajax/get-menu.php:22
+msgid "Role is not specified"
+msgstr "未指定角色"
+
+#: inc/tools.php:312 modules/tool/inc/process-import.php:162
+msgid "Admin pages imported"
+msgstr "导入管理页面"
+
+#: inc/settings.php:50 modules/setting/class-setting-module.php:137
+msgid "Remove Font Awesome"
+msgstr "删除真棒字体"
+
+#: inc/fields.php:100 modules/widget/templates/metaboxes/pro-link.php:17
+msgid "Create a Custom Dashboard with <strong>Elementor</strong> or <strong>Beaver Builder</strong>"
+msgstr "使用<strong>Elementor</strong>或<strong>Beaver Builder</strong>创建自定义仪表板"
+
+#: inc/fields.php:99 modules/widget/templates/metaboxes/pro-link.php:16
+msgid "Restrict Widgets to specific Users or User Roles"
+msgstr "将小部件限制为特定的用户或用户角色"
+
+#: inc/fields.php:98 modules/widget/templates/metaboxes/pro-link.php:15
+msgid "Contact Form Widgets"
+msgstr "联系表格小部件"
+
+#: inc/fields.php:97 modules/widget/templates/metaboxes/pro-link.php:14
+msgid "Video Widgets"
+msgstr "视频小部件"
+
+#: inc/fields.php:22 modules/admin-page/class-admin-page-module.php:253
+#: modules/widget/class-widget-module.php:197
+msgid "PRO Features Available"
+msgstr "具备PRO功能"
+
+#: modules/widget/templates/widget-types/icon-widget.php:76
+#: widgets/icon-widget.php:200
+msgid "Open link in a new tab."
+msgstr "在新标签页中打开链接。"
+
+#: modules/widget/templates/widget-types/icon-widget.php:71
+#: widgets/icon-widget.php:183
+msgid "Absolute URL's (incl. http:// or https://) or relative URL's (./post-new.php) are allowed."
+msgstr "允许使用绝对URL(包括http://或https://)或相对URL(./post-new.php)."
+
+#: modules/admin-menu/templates/template.php:21
+#: modules/admin-menu/templates/template.php:68
+#: modules/login-customizer/templates/udb-login-page.php:206
+msgid "This feature is available in Ultimate Dashboard PRO."
+msgstr "Ultimate Dashboard PRO中提供了此功能。"
+
+#: modules/login-customizer/sections/logo.php:124
+msgid "Logo Title"
+msgstr "徽标标题"
+
+#: modules/login-customizer/sections/logo.php:97
+msgid "Available template tags: {home_url}"
+msgstr "可用的模板标签:{home_url}"
+
+#: modules/login-customizer/sections/logo.php:67
+msgid "Logo Height"
+msgstr "徽标高度"
+
+#: modules/login-customizer/sections/layout.php:171
+msgid "Bottom Padding"
+msgstr "底部填充"
+
+#: modules/login-customizer/sections/layout.php:142
+msgid "Top Padding"
+msgstr "顶部填充"
+
+#: modules/login-customizer/sections/form-footer.php:56
+msgid "Link Color (Hover)"
+msgstr "链接颜色（悬停）"
+
+#: modules/login-customizer/sections/fields.php:265
+msgid "Border Color (Focus)"
+msgstr "边框颜色（焦点）"
+
+#: modules/login-customizer/sections/fields.php:219
+msgid "Background Color (Focus)"
+msgstr "背景色（焦点）"
+
+#: modules/login-customizer/sections/fields.php:173
+msgid "Text Color (Focus)"
+msgstr "文字颜色（焦点）"
+
+#: modules/login-customizer/sections/button.php:190
+msgid "Background Color (Hover)"
+msgstr "背景颜色（悬停）"
+
+#: modules/login-customizer/sections/button.php:144
+msgid "Text Color (Hover)"
+msgstr "文字颜色（悬停）"
+
+#: modules/login-customizer/sections/button.php:66
+#: modules/login-customizer/sections/fields.php:66
+#: modules/login-customizer/sections/layout.php:200
+msgid "Side Padding"
+msgstr "侧面填充"
+
+#: modules/login-customizer/inc/add-sections.php:103
+#: modules/login-customizer/login-customizer.php:144
+msgid "Custom CSS & JS"
+msgstr "自定义CSS和JS"
+
+#: modules/login-customizer/inc/add-sections.php:79
+#: modules/login-customizer/login-customizer.php:120
+msgid "Welcome Messages"
+msgstr "欢迎留言"
+
+#: modules/login-customizer/inc/add-sections.php:71
+#: modules/login-customizer/login-customizer.php:112
+msgid "Footer Links"
+msgstr "页脚链接"
+
+#: modules/login-customizer/inc/add-sections.php:63
+#: modules/login-customizer/login-customizer.php:104
+msgid "Log In Button"
+msgstr "登录按钮"
+
+#: modules/login-customizer/inc/add-sections.php:47
+#: modules/login-customizer/login-customizer.php:88
+msgid "Input Fields"
+msgstr "输入栏位"
+
+#: modules/feature/templates/feature-template.php:23
+#: modules/login-customizer/class-login-customizer-module.php:106
+#: modules/login-customizer/class-login-customizer-module.php:248
+#: modules/login-customizer/inc/submenu.php:26
+#: modules/login-customizer/login-customizer.php:39
+msgid "Login Customizer"
+msgstr "登录定制器"
+
+#: modules/branding/inc/settings.php:95
+msgid "Remove Admin Bar logo"
+msgstr "删除管理栏徽标"
+
+#: modules/branding/class-branding-module.php:133
+#: modules/branding/inc/settings.php:33
+msgid "Version Text"
+msgstr "版本文字"
+
+#: modules/branding/class-branding-module.php:129
+#: modules/branding/inc/settings.php:29
+msgid "Admin Bar Logo URL"
+msgstr "管理栏徽标URL"
+
+#: modules/branding/class-branding-module.php:128
+#: modules/branding/inc/settings.php:28
+msgid "Admin Bar Logo"
+msgstr "管理员栏徽标"
+
+#: modules/branding/class-branding-module.php:121
+#: modules/branding/inc/settings.php:21
+msgid "WordPress Admin Branding"
+msgstr "WordPress管理员品牌"
+
+#: inc/tools.php:278 modules/tool/inc/process-import.php:128
+msgid "Widgets imported"
+msgstr "导入的小部件"
+
+#: inc/tools.php:238 modules/tool/inc/process-import.php:85
+msgid "Settings imported"
+msgstr "设置已导入"
+
+#: inc/tools.php:214
+msgid "Your import is empty"
+msgstr "您的导入为空"
+
+#: inc/tools.php:63
+msgid "Select the JSON file you would like to import."
+msgstr "选择您要导入的JSON文件。"
+
+#: inc/tools.php:45 modules/tool/templates/fields/export-field.php:19
+msgid "Include Settings"
+msgstr "包括设定"
+
+#: inc/tools.php:39
+msgid "Export & move your Dashboard Widgets to a different installation."
+msgstr "导出仪表板小部件并将其移动到其他安装。"
+
+#: inc/fields.php:104 inc/settings.php:205
+#: modules/admin-menu/templates/template.php:23
+#: modules/admin-menu/templates/template.php:70
+#: modules/admin-page/inc/meta-boxes.php:187
+#: modules/admin-page/templates/metaboxes/pro-link.php:19
+#: modules/branding/inc/settings.php:121
+#: modules/branding/templates/fields/admin-bar-logo-url.php:23
+#: modules/login-customizer/controls/class-udb-customize-pro-control.php:65
+#: modules/login-customizer/templates/udb-login-page.php:208
+#: modules/setting/templates/fields/remove-3rd-party-widgets.php:50
+#: modules/widget/templates/metaboxes/pro-link.php:21
+msgid "Get Ultimate Dashboard PRO"
+msgstr "获取Ultimate Dashboard PRO"
+
+#: inc/settings.php:173
+#: modules/setting/templates/fields/remove-3rd-party-widgets.php:18
+msgid "No 3rd Party Widgets available."
+msgstr "没有可用的第三方小部件。"
+
+#: inc/settings.php:132
+#: modules/setting/templates/fields/remove-individual-widgets.php:22
+msgid "Welcome Panel"
+msgstr "欢迎面板"
+
+#: inc/settings.php:51 modules/setting/class-setting-module.php:138
+msgid "Remove Data on Uninstall"
+msgstr "卸载时删除数据"
+
+#: inc/settings.php:45 modules/setting/class-setting-module.php:132
+msgid "Custom Admin CSS"
+msgstr "自定义管理员CSS"
+
+#: inc/settings.php:44 modules/setting/class-setting-module.php:131
+msgid "Custom Dashboard CSS"
+msgstr "自定义仪表板CSS"
+
+#: inc/settings.php:41 modules/setting/class-setting-module.php:128
+msgid "Custom Dashboard Headline"
+msgstr "自定义仪表板标题"
+
+#: inc/settings.php:40 modules/setting/class-setting-module.php:127
+msgid "Remove Admin Bar from Frontend"
+msgstr "从前端删除管理栏"
+
+#: inc/settings.php:39 modules/setting/class-setting-module.php:126
+msgid "Remove Screen Options Tab"
+msgstr "删除屏幕选项选项卡"
+
+#: inc/settings.php:38 modules/setting/class-setting-module.php:125
+msgid "Remove Help Tab"
+msgstr "删除帮助标签"
+
+#: inc/settings.php:35 modules/setting/class-setting-module.php:122
+msgid "Headline Color"
+msgstr "标题颜色"
+
+#: inc/settings.php:34 modules/setting/class-setting-module.php:121
+msgid "Icon/Text Color"
+msgstr "图标/文字颜色"
+
+#: inc/settings.php:31 modules/setting/class-setting-module.php:118
+msgid "Remove 3rd Party Widgets"
+msgstr "删除第三方小部件"
+
+#: inc/settings.php:30 modules/setting/class-setting-module.php:117
+msgid "Remove Individual Widgets"
+msgstr "删除单个小部件"
+
+#: inc/settings.php:29 modules/setting/class-setting-module.php:116
+msgid "Remove All Widgets"
+msgstr "删除所有小部件"
+
+#: inc/settings.php:23 modules/setting/class-setting-module.php:104
+msgid "Widget Styling"
+msgstr "小部件样式"
+
+#: inc/settings.php:20 modules/setting/class-setting-module.php:98
+msgid "3rd Party Widgets"
+msgstr "第三方小部件"
+
+#: inc/settings.php:19 modules/setting/class-setting-module.php:97
+msgid "WordPress Dashboard Widgets"
+msgstr "WordPress仪表板小部件"
+
+#: inc/fields.php:52 modules/widget/templates/metaboxes/main.php:16
+msgid "HTML Widget"
+msgstr "HTML小部件"
+
+#: inc/fields.php:51 modules/widget/templates/metaboxes/main.php:15
+msgid "Text Widget"
+msgstr "文字小工具"
+
+#: inc/fields.php:50 modules/widget/templates/metaboxes/main.php:14
+msgid "Icon Widget"
+msgstr "图标小部件"
+
+#: inc/fields.php:189 modules/widget/templates/metaboxes/position.php:32
+msgid "Right column"
+msgstr "右栏"
+
+#: inc/fields.php:183 modules/widget/templates/metaboxes/position.php:26
+msgid "Left column"
+msgstr "左栏"
+
+#: inc/cpt.php:108 modules/widget/class-widget-module.php:113
+#: modules/widget/templates/metaboxes/main.php:27
+msgid "Widget Type"
+msgstr "小部件类型"
+
+#: inc/cpt.php:90 modules/widget/class-widget-module.php:96
+msgid "Widget draft updated."
+msgstr "小部件草稿已更新。"
+
+#: inc/cpt.php:86 modules/widget/class-widget-module.php:92
+msgid "Widget scheduled for: <strong>%1$s</strong>."
+msgstr "计划为<strong>%1$s</strong>的小部件。"
+
+#: inc/cpt.php:84 modules/widget/class-widget-module.php:90
+msgid "Widget submitted."
+msgstr "小部件已提交。"
+
+#: inc/cpt.php:83 modules/widget/class-widget-module.php:89
+msgid "Widget saved."
+msgstr "小部件已保存。"
+
+#. translators: %s: Date and time of the revision
+#: inc/cpt.php:82 modules/widget/class-widget-module.php:88
+msgid "Widget published."
+msgstr "小部件已发布。"
+
+#. translators: %s: Date and time of the revision
+#: inc/cpt.php:81 modules/widget/class-widget-module.php:87
+msgid "Widget restored to revision from %s"
+msgstr "窗口小部件已从%s恢复到修订版"
+
+#: inc/cpt.php:76 inc/cpt.php:79 modules/widget/class-widget-module.php:82
+#: modules/widget/class-widget-module.php:85
+msgid "Widget updated."
+msgstr "小部件已更新。"
+
+#: inc/cpt.php:28 modules/widget/inc/post-type.php:24
+msgid "No Dashboard Widgets in Trash."
+msgstr "垃圾箱中没有仪表板小部件。"
+
+#: inc/cpt.php:27 modules/widget/inc/post-type.php:23
+msgid "No Dashboard Widgets found."
+msgstr "找不到仪表板小部件。"
+
+#: inc/cpt.php:26 modules/widget/inc/post-type.php:22
+msgid "Search Dashboard Widgets"
+msgstr "搜索仪表板小部件"
+
+#: inc/cpt.php:24 modules/widget/inc/post-type.php:20
+msgid "View Dashboard Widget"
+msgstr "查看仪表板小部件"
+
+#: inc/cpt.php:23 modules/widget/inc/post-type.php:19
+msgid "Edit Dashboard Widget"
+msgstr "编辑仪表板小部件"
+
+#: inc/cpt.php:22 modules/widget/inc/post-type.php:18
+msgid "New Dashboard Widget"
+msgstr "新的仪表板小部件"
+
+#: inc/cpt.php:21 modules/widget/inc/post-type.php:17
+msgid "Add Dashboard Widget"
+msgstr "添加仪表板小部件"
+
+#: inc/cpt.php:19 modules/widget/inc/post-type.php:15
+msgctxt "Admin Menu text"
+msgid "Ultimate Dash..."
+msgstr "Ultimate Dash..."
+
+#: inc/cpt.php:17 modules/widget/inc/post-type.php:13
+msgctxt "Post type general name"
+msgid "Dashboard Widgets"
+msgstr "仪表板小部件"
+
+#. Author URI of the plugin
+msgid "https://mapsteps.com/"
+msgstr "https://mapsteps.com/"
+
+#. Author of the plugin
+msgid "David Vongries"
+msgstr "David Vongries"
+
+#. Description of the plugin
+msgid "Create a Custom WordPress Dashboard."
+msgstr "创建一个自定义WordPress仪表板。"
+
+#. Plugin URI of the plugin
+msgid "https://ultimatedashboard.io/"
+msgstr "https://ultimatedashboard.io/"
+
+#. Plugin Name of the plugin
+#: inc/fields.php:14 modules/widget/class-widget-module.php:193
+msgid "Ultimate Dashboard"
+msgstr "Ultimate 仪表板"

@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Dashboard PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-12 16:33+0000\n"
+"PO-Revision-Date: 2021-06-03 06:48+0000\n"
+"Last-Translator: 管理员\n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
+
+#. Name of the plugin
+#: inc/ultimate-dashboard-fields.php:15
+msgid "Ultimate Dashboard"
+msgstr " 终极仪表板 "
+
+#: inc/ultimate-dashboard-fields.php:21
+msgid "Position"
+msgstr " 职务 "
+
+#: inc/ultimate-dashboard-fields.php:27
+msgid "Priority"
+msgstr " 优先权 "
+
+#: inc/ultimate-dashboard-fields.php:49
+msgid "Default"
+msgstr " 默认情况下 "
+
+#: inc/ultimate-dashboard-fields.php:54
+msgid "Low"
+msgstr " 低 "
+
+#: inc/ultimate-dashboard-fields.php:59
+msgid "High"
+msgstr " 高 "
+
+#: inc/ultimate-dashboard-fields.php:79
+msgid "Left column"
+msgstr " 左栏 "
+
+#: inc/ultimate-dashboard-fields.php:84
+msgid "Right column"
+msgstr " 右栏 "
+
+#: inc/ultimate-dashboard-fields.php:96
+msgid "Icon Widget"
+msgstr " 图标小工具 "
+
+#: inc/ultimate-dashboard-settings.php:30
+msgid "WordPress Dashboard Widgets"
+msgstr " WordPress仪表板小工具 "
+
+#: inc/ultimate-dashboard-settings.php:34
+msgid "Remove all Widgets"
+msgstr " 移除所有的小工具 "
+
+#: inc/ultimate-dashboard-settings.php:35
+msgid "Remove individual Widgets"
+msgstr " 移除个别小工具 "
+
+#: inc/ultimate-dashboard-settings.php:43
+msgid "All"
+msgstr " 全部 "
+
+#: inc/ultimate-dashboard-settings.php:51
+msgid "Welcome Panel"
+msgstr " 欢迎小组 "
+
+#: inc/ultimate-dashboard-settings.php:55
+msgid "Incoming Links"
+msgstr " 来访链接 "
+
+#: inc/ultimate-dashboard-settings.php:59
+msgid "Plugins"
+msgstr " 插件 "
+
+#: inc/ultimate-dashboard-settings.php:63
+msgid "WordPress News"
+msgstr " WordPress新闻 "
+
+#: inc/ultimate-dashboard-settings.php:67
+msgid "Secondary"
+msgstr " 中学 "
+
+#: inc/ultimate-dashboard-settings.php:71
+msgid "QuickPress"
+msgstr " 迅雷下载 "
+
+#: inc/ultimate-dashboard-settings.php:75
+msgid "Quick Draft"
+msgstr " 迅速起草 "
+
+#: inc/ultimate-dashboard-settings.php:79
+msgid "Comments"
+msgstr " 评论 "
+
+#: inc/ultimate-dashboard-settings.php:83
+msgid "Right now"
+msgstr " 现在 "
+
+#: inc/ultimate-dashboard-settings.php:87
+msgid "Activity"
+msgstr " 活动 "
+
+#: inc/ultimate-dashboard-addons-template.php:19
+msgid "Extras Addon"
+msgstr " 额外插件 "
+
+#: inc/ultimate-dashboard-addons-template.php:25
+msgid ""
+"The Extras Addon is an essential extension that adds various options to "
+"Ultimate Dashboard. Remove 3rd Party Widgets, create Text Widgets, add "
+"Tooltips to your Widgets & more!"
+msgstr ""
+" Extras Addon是一个重要的扩展，它为Ultimate "
+"Dashboard增加了各种选项。移除第三方小部件，创建文本小部件，为你的小部件添加工具提示等等 "
+
+#: inc/ultimate-dashboard-addons-template.php:27
+#: inc/ultimate-dashboard-addons-template.php:43
+msgid "More Details"
+msgstr " 更多细节 "
+
+#: inc/ultimate-dashboard-addons-template.php:35
+msgid "Multisite Addon"
+msgstr " 多站点附加组件 "
+
+#: inc/ultimate-dashboard-addons-template.php:41
+msgid ""
+"Take your WordPress network to the next level with the multisite Addon for "
+"Ultimate Dashboard. Show the same Widgets throughout all sites, reorder "
+"Widgets globally & more!"
+msgstr ""
+" 用Ultimate "
+"Dashboard的多站点插件将你的WordPress网络提升到新的水平。在所有网站上显示相同的小工具，在全球范围内重新排列小工具，以及更多 "
+
+#: inc/ultimate-dashboard-addons-template.php:51
+msgid "Video Widget Addon"
+msgstr " 视频小工具插件 "
+
+#: inc/ultimate-dashboard-addons-template.php:57
+#: inc/ultimate-dashboard-addons-template.php:59
+#: inc/ultimate-dashboard-addons-template.php:73
+#: inc/ultimate-dashboard-addons-template.php:75
+msgid "Coming Soon!"
+msgstr " 即将推出! "
+
+#: inc/ultimate-dashboard-addons-template.php:67
+msgid "Branding Addon"
+msgstr " 品牌建设插件 "
+
+#: inc/ultimate-dashboard-cpt.php:23
+msgid "Add Dashboard Widget"
+msgstr " 添加仪表板小部件 "
+
+#: inc/ultimate-dashboard-cpt.php:24
+msgid "New Dashboard Widget"
+msgstr " 新的仪表板小工具 "
+
+#: inc/ultimate-dashboard-cpt.php:25
+msgid "Edit Dashboard Widget"
+msgstr " 编辑仪表板小工具 "
+
+#: inc/ultimate-dashboard-cpt.php:26
+msgid "View Dashboard Widget"
+msgstr " 查看仪表板小工具 "
+
+#: inc/ultimate-dashboard-cpt.php:27
+msgid "All Widgets"
+msgstr " 所有小工具 "
+
+#: inc/ultimate-dashboard-cpt.php:28
+msgid "Search Dashboard Widgets"
+msgstr " 搜索仪表板小工具 "
+
+#: inc/ultimate-dashboard-cpt.php:29
+msgid "No Dashboard Widgets found."
+msgstr " 没有发现仪表板小工具。 "
+
+#: inc/ultimate-dashboard-cpt.php:30
+msgid "No Dashboard Widgets in Trash."
+msgstr " 垃圾箱中没有仪表板小部件。 "
+
+#: inc/ultimate-dashboard-cpt.php:72
+msgid "Widget Title"
+msgstr " 小工具标题 "
+
+#: inc/ultimate-dashboard-cpt.php:73
+#: inc/widget/ultimate-dashboard-icon-widget.php:19
+msgid "Icon"
+msgstr " 图标 "
+
+#: inc/ultimate-dashboard-cpt.php:79
+msgid "Link Target"
+msgstr " 链接目标 "
+
+#: inc/ultimate-dashboard-cpt.php:80
+msgid "Date"
+msgstr " 日期 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:34
+msgid "Search"
+msgstr " 搜索 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:40
+msgid "WordPress Dashicons"
+msgstr " WordPress Dashicons "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:48
+msgid "Admin Menu"
+msgstr " 管理菜单 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:66
+msgid "Welcome Screen"
+msgstr " 欢迎屏幕 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:84
+msgid "Post Formats"
+msgstr " 帖子格式 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:102
+msgid "Media"
+msgstr " 媒体 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:120
+msgid "Image Editing"
+msgstr " 图像编辑 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:138
+msgid "Tiny MCE"
+msgstr " 小小的MCE "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:156
+msgid "Posts Screen"
+msgstr " 帖子屏幕 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:174
+msgid "Sorting"
+msgstr " 分拣 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:192
+msgid "Social"
+msgstr " 社会 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:210
+msgid "WordPress.org specific"
+msgstr " WordPress.org具体 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:228
+msgid "Products"
+msgstr " 产品 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:246
+msgid "Taxonomies"
+msgstr " 分类法 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:264
+msgid "Widgets"
+msgstr " 小工具 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:282
+msgid "Notifications"
+msgstr " 通知 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:300
+msgid "Misc"
+msgstr " 杂项 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:325
+msgid "Font Awesome"
+msgstr " 字体真棒 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:331
+msgid "Font Awesome Icons"
+msgstr " Font Awesome Icons "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:353
+msgid "Link"
+msgstr " 链接 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:369
+msgid "URL"
+msgstr " URL "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:370
+msgid ""
+"Absolute URL's (incl. http:// or https://) or relative URL's (./post-new.php)"
+" are allowed."
+msgstr ""
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:378
+msgid "Target"
+msgstr " 目标 "
+
+#: inc/widget/ultimate-dashboard-icon-widget.php:379
+msgid "Open link in a new tab."
+msgstr " 在新标签中打开链接。 "
+
+#. Description of the plugin
+msgid ""
+"Ultimate Dashboard gives you full control over your WordPress Dashboard. "
+"Remove the default Dashboard Widgets and and create your own for a better "
+"user experience."
+msgstr " 终极仪表板让你完全控制你的WordPress仪表板。移除默认的仪表板部件，并创建你自己的部件，以获得更好的用户体验。 "
+
+#. URI of the plugin
+msgid "https://mapsteps.com/en/downloads/"
+msgstr ""
+
+#. Author of the plugin
+msgid "MapSteps"
+msgstr " 地图步数 "
+
+#. Author URI of the plugin
+msgid "https://mapsteps.com/"
+msgstr ""

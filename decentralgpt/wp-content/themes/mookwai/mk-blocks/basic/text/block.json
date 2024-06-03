@@ -1,0 +1,65 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/text",
+  "title": "文本",
+  "version": "1.0",
+  "category": "mk-b-cat-basic",
+  "description": "添加一段纯文本内容。",
+  "keywords": ["mookwai", "text"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "tagName": {
+      "type": "string",
+      "default": "span"
+    },
+    "content": {
+      "type": "string",
+      "default": ""
+    },
+    "linkEnable": {
+      "type": "boolean",
+      "default": true
+    },
+    "link": {
+      "type": "object",
+      "default": {"type": "url"}
+    },
+    "linkRel": {
+      "type": "array"
+    },
+    "openInNew": {
+      "type": "boolean",
+      "default": false
+    },
+    "ariaLabel": {
+      "type": "string"
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "parentIsPreview", "parentHasLink" ],
+  "supports": {
+		"html": false
+	}
+}

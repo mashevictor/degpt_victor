@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*
+Theme Name: MooKwai
+Theme URI: https://mookwai.com
+Author: PUJI Design
+Author URI: https://puji.design
+Description: MooKwai is a website generation tool with greater freedom.
+Tags: blog, full-site-editing, gutenberg, editor-style, featured-images
+Version: 0.2.13
+Requires at least: 6.5
+Tested up to: 6.5
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mookwai
+
+MooKwai is a website generation tool with greater freedom. (C) 2024 puji.design
+MooKwai is distributed under the terms of the GNU GPL.
+@package MooKwai
+ */

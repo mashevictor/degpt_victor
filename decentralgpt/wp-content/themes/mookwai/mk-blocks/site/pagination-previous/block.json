@@ -1,0 +1,45 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/pagination-previous",
+  "title": "上一页",
+  "version": "1.0",
+  "parent": [ "mk-block/pagination" ],
+  "category": "mk-b-cat-site",
+  "description": "Basic containers for page sections",
+  "keywords": ["mookwai", "pagination"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "provideHasLink": {
+      "type": "boolean",
+      "default": true
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "queryId", "query" ],
+  "providesContext": {
+    "parentIsPreview": "interactPreview",
+		"parentHasLink": "provideHasLink"
+	},
+  "supports": {
+		"html": false
+	}
+}

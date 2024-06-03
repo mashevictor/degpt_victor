@@ -1,0 +1,66 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/navigation",
+  "title": "导航面板",
+  "version": "1.0",
+  "category": "mk-b-cat-extention",
+  "description": "网站的主要链接入口，可根据用户访问设备自动适配展现内容。",
+  "keywords": ["mookwai", "section", "layout", "container", "grid", "flex"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "devices": {
+      "type": "array",
+      "default": ["Tablet", "Mobile"]
+    },
+    "toggleType": {
+      "type": "string",
+      "default": "icon"
+    },
+    "textOpen": {
+      "type": "string",
+      "default": "Menu"
+    },
+    "textClose": {
+      "type": "string",
+      "default": "Close"
+    },
+    "iconOpen": {
+      "type": "object",
+      "default":{"library":"MooKwaiIcon","slug":"hamburger","size":"medium"}
+    },
+    "iconClose": {
+      "type": "object",
+      "default":{"library":"MooKwaiIcon","slug":"close","size":"medium"}
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "providesContext": {
+    "parentIsPreview": "interactPreview"
+  },
+  "usesContext": [ "parentIsPreview", "parentHasLink" ],
+  "supports": {
+		"html": false
+	}
+}

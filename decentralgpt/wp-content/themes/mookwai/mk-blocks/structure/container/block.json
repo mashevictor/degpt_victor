@@ -1,0 +1,71 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/container",
+  "title": "布局容器",
+  "version": "1.0",
+  "category": "mk-b-cat-layout",
+  "description": "可使用全局样式种的栅格布局，用于页面框架的自动化排版，布局容器中仅可插入布局元素区块。",
+  "keywords": ["mookwai", "layout", "container"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "allowedBlocks": {
+      "type": "array",
+      "default": [ "mk-block/column" ]
+    },
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "globalLayout": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "tagName": {
+      "type": "string",
+      "default": "div"
+    },
+    "bgMedia": {
+      "type": "object",
+      "default": {}
+    },
+    "layoutType": {
+      "type": "string",
+      "default": "column"
+    },
+    "layoutColumns": {
+      "type": "object",
+      "default": {
+        "Desktop": "12",
+        "Tablet": "12",
+        "Mobile": "6"
+      }
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "providesContext": {
+    "parentType": "layoutType",
+    "parentColumns": "layoutColumns",
+    "parentIsPreview": "interactPreview"
+  },
+  "usesContext": [ "parentIsPreview" ],
+  "supports": {
+		"html": false
+	}
+}

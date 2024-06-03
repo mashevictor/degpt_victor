@@ -1,0 +1,3128 @@
+# Copyright (C) 2024 PUJI Design
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: MooKwai 0.2.13\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/mookwai\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-24T10:46:53+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: mookwai\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "MooKwai"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://mookwai.com"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "MooKwai is a website generation tool with greater freedom."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "PUJI Design"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://puji.design"
+msgstr ""
+
+#: app/base/mookwai-blocks.php:111
+#: assets/js/mk-blocks.js:1
+msgid "Structure"
+msgstr ""
+
+#: app/base/mookwai-blocks.php:119
+#: assets/js/mk-blocks.js:1
+msgid "Basic"
+msgstr ""
+
+#: app/base/mookwai-blocks.php:127
+#: assets/js/mk-blocks.js:1
+msgid "Extention"
+msgstr ""
+
+#: app/base/mookwai-blocks.php:135
+#: assets/js/mk-blocks.js:1
+msgid "Site Content"
+msgstr ""
+
+#: app/base/mookwai-setup.php:91
+msgid "Primary menu"
+msgstr ""
+
+#: app/base/mookwai-setup.php:92
+msgid "Secondary menu"
+msgstr ""
+
+#: app/settings/general-settings.php:39
+#: app/settings/general-settings.php:49
+msgid "General Settings"
+msgstr ""
+
+#: app/settings/general-settings.php:50
+#: assets/js/mk-blocks.js:1
+msgid "Settings"
+msgstr ""
+
+#: app/settings/general-settings.php:105
+msgid "Auxiliary"
+msgstr ""
+
+#: app/settings/general-settings.php:106
+msgid "Import files"
+msgstr ""
+
+#: app/settings/general-settings.php:107
+msgid "Analytics"
+msgstr ""
+
+#: app/settings/general-settings.php:108
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-dashboard.js:1
+msgid "Integrate"
+msgstr ""
+
+#: app/settings/general-settings.php:116
+msgid "Admin bar"
+msgstr ""
+
+#: app/settings/general-settings.php:117
+#: assets/js/mk-blocks.js:1
+msgid "Display"
+msgstr ""
+
+#: app/settings/general-settings.php:126
+msgid "Default styles"
+msgstr ""
+
+#: app/settings/general-settings.php:127
+#: app/settings/general-settings.php:137
+#: app/settings/general-settings.php:147
+#: app/settings/general-settings.php:157
+#: app/settings/general-settings.php:167
+#: app/settings/general-settings.php:177
+#: app/settings/general-settings.php:235
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-dashboard.js:1
+msgid "Enable"
+msgstr ""
+
+#: app/settings/general-settings.php:166
+msgid "Lazy load"
+msgstr ""
+
+#: app/settings/general-settings.php:176
+msgid "Dashboard access"
+msgstr ""
+
+#: app/settings/general-settings.php:212
+msgid "Google UID"
+msgstr ""
+
+#: app/settings/general-settings.php:223
+msgid "Baidu hm.src"
+msgstr ""
+
+#: app/settings/mookwai-help.php:39
+#: app/settings/mookwai-help.php:40
+#: app/settings/mookwai-help.php:48
+#: app/settings/mookwai-help.php:49
+msgid "Get Help"
+msgstr ""
+
+#: app/settings/mookwai-icon-library.php:39
+#: app/settings/mookwai-icon-library.php:40
+#: app/settings/mookwai-icon-library.php:48
+#: app/settings/mookwai-icon-library.php:49
+msgid "Generate Icons"
+msgstr ""
+
+#: app/settings/mookwai-system.php:39
+#: app/settings/mookwai-system.php:40
+#: app/settings/mookwai-system.php:48
+#: app/settings/mookwai-system.php:49
+msgid "System"
+msgstr ""
+
+#: app/settings/mookwai-system.php:134
+msgid "MooKwai: System"
+msgstr ""
+
+#: app/settings/mookwai-system.php:136
+msgid "Site Info"
+msgstr ""
+
+#: app/settings/mookwai-system.php:139
+msgid "Site Name"
+msgstr ""
+
+#: app/settings/mookwai-system.php:143
+msgid "Site URL"
+msgstr ""
+
+#: app/settings/mookwai-system.php:147
+msgid "WordPress Version"
+msgstr ""
+
+#: app/settings/mookwai-system.php:151
+msgid "MooKwai Version"
+msgstr ""
+
+#: app/settings/mookwai-system.php:155
+msgid "Language"
+msgstr ""
+
+#: app/settings/mookwai-system.php:159
+msgid "Permalink"
+msgstr ""
+
+#: app/settings/mookwai-system.php:165
+msgid "PHP Info"
+msgstr ""
+
+#: app/settings/mookwai-system.php:172
+msgid "PHP Version"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Icon Library"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Unset"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Desktop"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Tablet"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Mobile"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Lose Global"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Size"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Name"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "maxWidth"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Side"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Side(Mobile)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Edit"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add New"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Please Enter…"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Content Preview Width"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Set as Default"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-dashboard.js:1
+msgid "Delete"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Default"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Full"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Code"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "The key cannot be empty."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "The value cannot be empty."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "The key you entered is not allowed."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Confirm deletion?"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cancel"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Invalid element."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Element Animation"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Animation"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Video"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Duplicate"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Done"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Image"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Play"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Pause"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Stop"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Sync"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Elastic"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "None"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "System fonts"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "System fonts(chinese)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Properties not set yet."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Modify"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "The key is not valid."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Completion Status"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Initial Status"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Default Status"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Set Element Animation"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Name"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Please enter…"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Type"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Line"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Word"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Character"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Set Text Animation"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Element"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Capture"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Jump"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Trigger"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Start"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "End"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Jump to"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Loop"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Max Time"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Hover"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Flex Item"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Pseudo Element"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Replaced Element"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Position"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Overflow"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cursor"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Counter"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Background"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Border"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Outline"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Radius"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Shadow"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Clip"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Opacity"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Text"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Typography"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Sizing"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Spacing"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Filter"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Backdrop Filter"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Transform"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Transition"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Bouncing"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Flipping"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Drag"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Wiggle"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Anchor"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "View In/View Out"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Scroll Scrub"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Matrix Scroll"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Mouse Hover"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Mouse Move"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Click"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Row"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Row reverse"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Column"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Column reverse"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Nowrap"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Wrap"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Wrap reverse"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Axis Direction"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Main-axis"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cross-axis"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Gap"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Basis Size"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Grow"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Shrink"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Order"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Content"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Object fit"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "T"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "R"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "B"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "L"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Offset"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Z-index"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Auto"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Pointer"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Context menu"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Help"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Progress"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Wait"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cell"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cross Hair"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Vertical Text"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Event"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Cursor"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Set"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Reset"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Content Increment"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Color"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Center"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Repeat"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Repeat X"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Repeat Y"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "No Repeat"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cover"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Contain"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "W"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "H"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Background Color"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Image src"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "size"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Interact"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Solid line"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Dashed"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Dotted"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Double solid"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Style"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Width"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "LT"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "RT"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "RB"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "LB"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Blur"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Spread"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Parameter"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Inner"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Round"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Square"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Inherit"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Arcs"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Miter"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Bevel"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Fill Color"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroke Color"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroe Width"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroke Cap"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroke Join"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Normal"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Mode"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Italic"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Solid"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Double Solid"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Wavy"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Font Family"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Font Weight"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Font Style"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Font Spec"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Transform"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Decoration"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Decoration Style"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Decoration Width"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Reserved"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Stroke"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Shadow"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Text Indent"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Alignment"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Word Break"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Whitespace"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "minWidth"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Height"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "minHeight"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "maxHeight"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ratio"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Padding"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Margin"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Visible"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Hidden"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Scroll"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ellipsis"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Overflow X"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Overflow Y"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Text overflow"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Saturate"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Brightness"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Contrast"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Grey"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Hue"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Manage Filters"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Free Transform"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Translate"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Scale"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Rotate"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Skew"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Origin"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Manage Transform"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ease"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ease in"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ease out"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ease in out"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Linear"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Step start"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Step end"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Bezier"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Animation"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Transition Settings"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Property"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Duration"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Delay"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Easing"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Power"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Inner Element"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Devices"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Reversed"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Move"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Amplitude"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Interval"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Target Element"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Update to global styles"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Inherit from global styles"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Invalid setting"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Child Element"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Element/Pseudo Name…"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Child Element"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Element Name"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Basic Properties"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Appearance"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Sizing & Spacing"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Effects"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Delete Element"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Enable Timeline"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Repeat Delay"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Reverse on Return"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Animation"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Ease"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Edges"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Random"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Stagger"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Starting"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Axis"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Block Settings"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Styles"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Interacts"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Assist"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Classname"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Html Attributes"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Global Block"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add New Global Block"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Edit Global Block"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Do Not Use Global Block"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Sync to Global Block"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Homepage"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Homepage"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Media file"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Attachment page"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Link"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "No title"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom link"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Advanced"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Open in New"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Aria Label"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Rel"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Html Tag"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Interact Preview"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Hide/Show"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Copy/Paste"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Copy Block Styles"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Paste Block Styles"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Copy Block Interacts"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Paste Block Interacts"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-dashboard.js:1
+msgid "Clear"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Copy Block Classname"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "No Animation Found."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Restart"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Reverse"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Animation Tween"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Tween"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Tween"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Animation Tween Settings"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Animation Management"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Animation"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ending"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Markers"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Events"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "View In"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "View Out"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Reverse: View In"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Reverse: View Out"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Delete Event"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Smooth"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Pin"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Element"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Mouse Enter"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Mouse Leave"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Toggle Class"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Toggle"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Click Again"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Element Event"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add New Event"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: View in/View out"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: Scroll Scrub"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: Matrix Scroll"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: Hover"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: Mouse Leave"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Element: Click"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Invalid Event"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Preset"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Large"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "No Restriction"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Landscape"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Portrait"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Responsive"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Undefined"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Device"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Screen Ratio"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Media background"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Image file"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Video file"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Autoplay"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Lottie file"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Upload or enter file path…"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Link URL"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Choose"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Font"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "CSS Property Value"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Medium"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Small"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add A Icon"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Insert"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add New Icon"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add A Library"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Icon Library"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Edit Name"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Missing Icon"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Choose file"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Set the target element…"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Invalid target element."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom CSS"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom JS"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-dashboard.js:1
+msgid "Import Files"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Paragraph"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Heading"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "List"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Unordered List"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ordered List"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "List Item"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Quote"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Caption"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Code"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Table"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Head"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Body"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Foot"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Core"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Panel"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Toggle Button"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Title"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "One-level"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Two-level"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Container"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Item"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Front"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Back"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Wrapper"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Search Group"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Search Icon"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Search Input"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Button"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Submenu"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cover Item"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Separator"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Prefix"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Suffix"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Numbers Container"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Delete Style"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Layout"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Palette"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Brand Color"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Neutral Color"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Hint Color"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Other"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Google Font"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Regular Font"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Major Font"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Normal Layout"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Flex Layout"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Column Layout"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "List Layout"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Left"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Right"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Row Reverse"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Column Reverse"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "No Wrap"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Wrap Reverse"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Regular"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Flex Start"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Flex End"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Space Between"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Space Around"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Space Evenly"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Stretch"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Baseline"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Side(sm)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Side Scale"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Side Scale(lg)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Flex layout"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Col Gap"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Col Gap(sm)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Row Gap"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Row Gap(sm)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Gap Scale"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Gap Scale(lg)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Direction"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Columns"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Columns(sm)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cells Per Row"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cells Per Row(sm)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cell Height"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Cell Height(sm)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "minWidth(md)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "minWidth(sm)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Gradient"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Color Settings"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "The Color"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "woff2 format file path…"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "woff format file path…"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Embed Code"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "* Only supports importing via @import"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Please paste the code here…"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "The code format you entered is incorrect, please check."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Import"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Imported Fonts"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Font Size"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Line Height"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Letter Spacing"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Word Spacing"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Vertical Scaling"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Size"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Styles"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Basic Elements"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Color Scheme"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Styles:Basic Element"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroke Style"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Stroke Width"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Styles:Link"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Styles:Cursor"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Basic Element"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Highlight"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Selection"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Mask Layer"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Section"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Layout Container"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Layout Column"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Common Container"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Icon"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "SVG"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Lottie"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Navigation"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Table of Contents"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Carousel"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Slides"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Slider Pagination"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Slider Toggles"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Collapse"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Flip Card"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Smoother"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Horizontal Scroll"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Masonry"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Reel"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Marquee"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Typewriter"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Search"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Site Menu"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Query Loop"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Post List"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Content"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Title"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Excerpt"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Cover"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Terms"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Post Date"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Post Link"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Post Empty"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Pagination"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Breadcrumbs"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Global Variable"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Site"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Global Blocks"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Item Classes"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Item CSS"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Image Size"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Responsive Rule"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Rule"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "MooKwai Featured Cover"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom URL"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Load Assets"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Custom Assets"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Loading"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Load Complete"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Scroll Up"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Scroll Down"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Restore on Leave"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Hide on Leave"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Page Settings"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Page Styles"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Link(Hover)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Page Interact"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Page Events"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Page: Load"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Page: Scroll"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Page: Scroll Scrub"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Page: Mouse Enter"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Page: Mouse Move"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "MooKwai data loading failed, please refresh the page and try again!"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "MooKwai data save failed, please refresh the page and try again!"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "MooKwai data has been saved."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Global Styles"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Global Style"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Basic container for the page framework, used to categorize different content sections on the page."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "No content"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Number of columns to add"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add Now"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Grid layout from global styles can be utilized for the automated arrangement of the page framework. Only layout element blocks are allowed to be inserted into the layout container."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Sub-container of the layout container, capable of automatic layout optimization based on the grid layout type of the parent container."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Can be used in any position that requires wrapping with an independent container."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "The button can be set to open a fixed link or trigger a popup."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add plain text content."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Type something…"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Inserts an icon from the icon library."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Display caption"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "File"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Image size"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Alt"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Click to expand"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Choose/Upload a image"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Insert image."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Edit XML"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Choose/Upload File"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Inserting SVG in XML format allows for styling and interactive settings of its elements through code."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Canvas"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "JSON File"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "JSON File Path…"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Animation Settings"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Render"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Auto Play"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Choose/Upload JSON File"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Lottie animation, upload the JSON file of the animation."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Text & Icon"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Fade"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Expand"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "To Left"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "To Right"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "To Top"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "To Bottom"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Text(Open)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Text(Close)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Icon(Close)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Enable Mask"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Primary entry points of the website, adaptively presenting content based on the user's accessing device."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "No content."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Contains"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Excludes"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Automatically fetch article titles and generate a table of contents."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Pause on Hover"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Stay"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Offer interactive carousel functionality, allowing the display of a single or multiple sets of content."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add carousel item."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Container for all carousel items."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Carousel item allowing the addition of other blocks within it as the content of a single item."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Provide interactive carousel functionality, allowing the display of multiple sets of content with automatic rotation."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add slide items."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Container for all slide items."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Slide Item"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Slide item allowing the addition of other blocks within it as the content of a single item."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Auto Hide"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Automatically generate pagination elements."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Toggles"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Previous and next buttons."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Previous"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Click to switch to the previous item."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Next"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Click to switch to the next item."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Fold"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Expand First"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Heading Html Tag"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Icon(Expand)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Icon(Fold)"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Initial"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Auto Fold"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Quantity to Add"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Click to trigger the expand and collapse effect of the content."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Collapse element allowing the addition of other blocks within it as the content of a single element."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Set Title…"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Horizontal"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Vertical"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Can display content on both the front and back sides of the container, switching through a flip interactive animation."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Flip card Front item allowing the addition of other blocks within it as the content of a single item."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Flip card Back item allowing the addition of other blocks within it as the content of a single item."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Smooth on Touch"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Parallax Scroll"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Elements"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Offer a smooth scrolling interactive effect for the page."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Container with Horizontal Scroll Interaction."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add horizontal item."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Container for all horizontal items."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Horizontal item allowing the addition of other blocks within it as the content of a single item."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Speed"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Achieves an infinite loop scrolling effect, commonly used for creating scrolling subtitles, images, and similar effects."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Empty Stay"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Content Stay"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Simulate a typewriter-style text input animation."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Placeholder"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Auto Complete"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Display Icon"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Display Button"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Button Type"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Button Text"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Button Icon"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Search form component."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Classic"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Menu"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Call the menu created in the system and display it on the page. The menu can be configured as a single-level or multi-level menu."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Please go to 'Dashboard' - 'Appearance' - 'Menu' to create your menu."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+#: assets/js/mk-blocks.js:4
+msgid "Term"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Display Current"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add link"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Offer an intuitive navigation method for users to understand their current location and easily navigate back to the previous or higher-level pages."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Category"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Article Content Block, used to display the entire content of a single article, exclusively for template pages."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Inherit from template"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Post Type"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Articles per Page"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Add from Template"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Please select an appropriate template."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Automatically retrieve articles from the system."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Link to Article"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Displaying the articles in loop."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Restrict View"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Display title information for the current article, and optionally add a link to the title."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Word Limit"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Display the summary content of the current article. If no summary is set for the article, automatically extract a portion of the article content."
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Ignore First"
+msgstr ""
+
+#: assets/js/mk-blocks.js:1
+msgid "Display the cover image of the article."
+msgstr ""
+
+#. translators: %s: The image's alt text.
+#: assets/js/mk-blocks.js:4
+msgid "Post Term"
+msgstr ""
+
+#: assets/js/mk-blocks.js:4
+msgid "Add Link"
+msgstr ""
+
+#: assets/js/mk-blocks.js:4
+msgid "Display the category information of the current article, which can be set as category, tag, or any custom classification under the article type."
+msgstr ""
+
+#: assets/js/mk-blocks.js:4
+msgid "Format"
+msgstr ""
+
+#: assets/js/mk-blocks.js:4
+msgid "Display the publication date or modification date of the current article."
+msgstr ""
+
+#: assets/js/mk-blocks.js:4
+msgid "Add links to articles within the article loop."
+msgstr ""
+
+#: assets/js/mk-blocks.js:4
+msgid "Used in query loop to display pagination links."
+msgstr ""
+
+#: assets/js/mk-blocks.js:4
+msgid "Page Number"
+msgstr ""
+
+#: assets/js/mk-blocks.js:4
+msgid "Automatically generate page number."
+msgstr ""
+
+#: assets/js/mk-blocks.js:4
+msgid "Click to switch to the previous page."
+msgstr ""
+
+#: assets/js/mk-blocks.js:4
+msgid "Click to switch to the next page."
+msgstr ""
+
+#: assets/js/mk-blocks.js:4
+msgid "Display this block content when there are no results in the loop."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Overview"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Customize"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Documentation"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Save"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "You do not have permission to modify website configurations."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Choose File"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Add File"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Customize Site"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Site General Settings"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Admin Toolbar"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "The website frontend displays an admin toolbar at the top, visible only to website administrators or editors."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Dashbard Restrictions"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "When enabled, individuals without editor-level permissions or higher will be unable to access the console."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Support uploading files in SVG format."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "MooKwai Default Style"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Load the MooKwai default style file on the frontend."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "MooKwai Extention Scripts"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Load the MooKwai extention js file on the frontend. After disabling it, would not be able to use the interactive settings."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Load jQuery file on the frontend."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Load Three JS file on the frontend."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Load Barba JS file on the frontend."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Add webpages to the Home Screen on iOS devices for a native mobile app-like experience."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Personalization"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Site Theme Color"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Primarily used for mobile devices, allowing the browser interface to match the website color."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Favicon"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "The small icon displayed in the browser's address bar, tab, or application icon."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Small Size"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Big Size"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "To enable smooth scrolling on all website pages automatically, eliminating the requirement for distinct smooth scrolling blocks."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Setting a linear interpolation for smooth scrolling, where a higher value results in a more pronounced effect."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Custom Head"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Customize the content of the <head> tag."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Custom data attributes in the body."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "CSS Files"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Import custom stylesheet files. You can import one or multiple files."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "JS Files"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Import javascript files. You can import one or multiple files."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Third-Party Integration"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Statistics and Analysis"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "After entering the Google UID, the system will automatically insert the Google Analytics code into the page."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "After entering the Baidu hm.src, the system will automatically insert the Baidu Statistics code into the page."
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "WooCommerce Scripts"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "When the WooCommerce plugin is activated, is the default style and interaction files of the plugin included?"
+msgstr ""
+
+#: assets/js/mk-dashboard.js:1
+msgid "Thank you for choosing MooKwai, a website generation tool with greater freedom."
+msgstr ""

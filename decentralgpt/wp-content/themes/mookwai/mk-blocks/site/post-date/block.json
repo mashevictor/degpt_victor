@@ -1,0 +1,54 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/post-date",
+  "title": "文章日期",
+  "version": "1.0",
+  "category": "mk-b-cat-site",
+  "description": "Basic containers for page sections",
+  "keywords": ["mookwai", "date", "time", "meta"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "format": {
+      "type": "string"
+    },
+    "displayType": {
+			"type": "string",
+			"default": "date"
+		},
+    "isLink": {
+			"type": "boolean",
+			"default": false
+		},
+		"linkTarget": {
+			"type": "string",
+			"default": "_self"
+		},
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "postId", "postType", "queryId", "itemIsLink" ],
+  "supports": {
+		"html": false
+	}
+}

@@ -1,0 +1,67 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/svg",
+  "title": "SVG",
+  "version": "1.0",
+  "category": "mk-b-cat-basic",
+  "description": "使用XML形式插入SVG, 可通过代码对其中元素进行样式与交互设置。",
+  "keywords": ["mookwai", "svg", "vector", "xml"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "tagName": {
+      "type": "string",
+      "default": "span"
+    },
+    "mediaID" : {
+      "type": "number"
+    },
+    "xml" : {
+      "type": "string"
+    },
+    "linkEnable": {
+      "type": "boolean",
+      "default": true
+    },
+    "link": {
+      "type": "object",
+      "default": {"type": "url"}
+    },
+    "linkRel": {
+      "type": "array"
+    },
+    "openInNew": {
+      "type": "boolean",
+      "default": false
+    },
+    "ariaLabel": {
+      "type": "string"
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "parentHasLink" ],
+  "supports": {
+		"html": false
+	}
+}

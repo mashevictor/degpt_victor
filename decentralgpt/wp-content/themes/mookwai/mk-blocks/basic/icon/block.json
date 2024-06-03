@@ -1,0 +1,65 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/icon",
+  "title": "Icon",
+  "version": "1.0",
+  "category": "mk-b-cat-basic",
+  "description": "插入图标库中的图标。",
+  "keywords": ["mookwai", "icon", "vector"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "tagName": {
+      "type": "string",
+      "default": "span"
+    },
+    "icon": {
+      "type": "object",
+      "default":{"library":"MooKwaiIcon","slug":"like","size":"medium"}
+    },
+    "linkEnable": {
+      "type": "boolean",
+      "default": true
+    },
+    "link": {
+      "type": "object",
+      "default": {"type": "url"}
+    },
+    "linkRel": {
+      "type": "array"
+    },
+    "openInNew": {
+      "type": "boolean",
+      "default": false
+    },
+    "ariaLabel": {
+      "type": "string"
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "parentIsPreview", "parentHasLink" ],
+  "supports": {
+		"html": false
+	}
+}

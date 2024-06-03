@@ -1,0 +1,40 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "mk-block/post-empty",
+  "title": "无结果",
+  "version": "1.0",
+  "category": "mk-b-cat-site",
+  "parent": [ "mk-block/post-query" ],
+  "description": "Basic containers for page sections",
+  "keywords": ["mookwai", "empty", "post"],
+  "textdomain": "mookwai",
+  "attributes": {
+    "blockID": {
+      "type": "string"
+    },
+    "globalSlug": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "array"
+    },
+    "htmlAttr": {
+      "type": "array"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "isHide": {
+      "type": "array"
+    },
+    "interactPreview": {
+      "type": "boolean",
+      "default": false
+    }
+	},
+  "usesContext": [ "queryId", "query" ],
+  "supports": {
+		"html": false
+	}
+}
